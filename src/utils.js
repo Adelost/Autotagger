@@ -26,7 +26,7 @@ exports.loadStaggerFile = function (path) {
   return words;
 };
 
-exports.tagFile = function (path) {
+exports.tagFile = function (path, lang) {
   let input = fs.readFileSync(path, 'utf8');
 
   input = input.replace(/[’‘’]/g, `'`);
@@ -37,22 +37,22 @@ exports.tagFile = function (path) {
   input = grammarCleanup(input);
 
   const words = new pos.Lexer().lex(input);
-  const tagger = new pos.Tagger();
+  const tagger = new pos.Tagger(lang);
   return tagger.tag(words);
 };
 
 exports.findKeywords = function (words) {
-  fixTheNouns(words);
+  fixNames(words);
   fixCompoundNouns(words);
   fixOfTitles(words);
   fixCompoundNouns(words);
   words = mergeNNP(words);
   words = suffixCleanup(words);
   words = words.filter(_ => isNnp(_[1]));
-  words = countKeywords(words);
-  promoteCompoundWords(words);
-  promoteHeadlineWords(words);
-  words = words.sort((a, b) => b[0] - a[0]);
+  // words = countKeywords(words);
+  // promoteCompoundWords(words);
+  // promoteHeadlineWords(words);
+  // words = words.sort((a, b) => b[0] - a[0]);
   return words;
 };
 
@@ -147,11 +147,11 @@ function mergeNNP(words) {
   });
 }
 
-function fixTheNouns(words) {
+function fixNames(words) {
   words.forEach((word, i) => {
-    const next = words[i + 1];
-    if (word[1] === 'DT' && next && isTitle(next[0])) {
-      next[1] = 'NNP';
+    const prev = words[i - 1];
+    if (isTitle(word[0]) && prev && isWord(prev[0]) && word[1] !== 'PRP') {
+      word[1] = 'NNP';
     }
   });
 }
@@ -234,7 +234,7 @@ function isNnp(tag) {
   return ['NNP'].includes(tag);
 }
 
-exports.createLexicon = function (path) {
+exports.createSweLexicon = function (path) {
   const lines = fs.readFileSync(path, 'utf8').split(/\n/);
   const tagMap = {
     pm: 'NNP',
@@ -251,7 +251,8 @@ exports.createLexicon = function (path) {
     in: 'UH',
     ab: 'RB',
     abm: 'RB',
-    nl: 'CD'
+    nl: 'CD',
+    pn: 'PRP'
   };
   const lex = {};
   lines.forEach(line => {
@@ -261,7 +262,7 @@ exports.createLexicon = function (path) {
     }
     const key = l[4];
     const rawTag = l[5];
-    const tag = tagMap[rawTag] || '?';
+    const tag = tagMap[rawTag] || rawTag;
     if (rawTag === undefined) {
       console.log(key, rawTag);
     }
@@ -272,8 +273,31 @@ exports.createLexicon = function (path) {
     }
     tags[tag] = true;
   });
+  Object.entries(additionalSwe()).forEach(([tag, value]) => {
+    const words = value.split(' ');
+    words.forEach((key) => {
+      let tags = lex[key];
+      if (!tags) {
+        tags = {};
+        lex[key] = tags;
+      }
+      tags[tag] = true;
+    });
+  });
   Object.entries(lex).forEach(([key, value]) => {
     lex[key] = Object.keys(value).reverse();
   });
-  fs.writeFileSync(path + '.json', JSON.stringify(lex, null, 2), 'utf8');
+  fs.writeFileSync(`${__dirname}/../lexicons/swe.json`, JSON.stringify(lex, null, 2), 'utf8');
 };
+
+function additionalSwe() {
+  return {
+    PRP: 'jag du han hon hen den det man en vi ni de dom'
+      + ' mig mej dig dej honom han henne hen henom den det en sig sej oss er eder dem dom sig sej'
+      + ' min din sin vår våran er eran eder sin'
+      + ' mitt ditt hans hennes hens dess ens sitt vårt vårat ert erat edert deras sitt'
+      + ' mina dina sina våra era edra sina',
+    PP$: 'min mitt mina vår vårt våra din ditt dina er ert era sin sitt sina sin sitt sina',
+    WDT: 'hans hennes dess detta denna denne dessa'
+  };
+}

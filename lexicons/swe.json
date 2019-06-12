@@ -716,7 +716,7 @@
     "NN"
   ],
   "accidental": [
-    "?"
+    "sxc"
   ],
   "accidentell": [
     "JJ"
@@ -2063,7 +2063,7 @@
     "NN"
   ],
   "after-ski": [
-    "?"
+    "mxc"
   ],
   "after ski": [
     "NN"
@@ -2581,7 +2581,7 @@
     "UH"
   ],
   "aja baja": [
-    "?"
+    "inm"
   ],
   "Ajdin": [
     "NNP"
@@ -2593,10 +2593,10 @@
     "JJ"
   ],
   "a jour": [
-    "?"
+    "avm"
   ],
   "à jour": [
-    "?"
+    "avm"
   ],
   "ajournera": [
     "VB"
@@ -3202,13 +3202,13 @@
     "NN"
   ],
   "a la": [
-    "?"
+    "ppm"
   ],
   "á la": [
-    "?"
+    "ppm"
   ],
   "à la": [
-    "?"
+    "ppm"
   ],
   "Alabama": [
     "NNP"
@@ -3226,16 +3226,16 @@
     "JJ"
   ],
   "a la bonheur": [
-    "?"
+    "inm"
   ],
   "à la bonheur": [
-    "?"
+    "inm"
   ],
   "a la bonne heure": [
-    "?"
+    "inm"
   ],
   "à la bonne heure": [
-    "?"
+    "inm"
   ],
   "a la carte": [
     "RB"
@@ -3995,10 +3995,11 @@
     "NN"
   ],
   "all": [
-    "?"
+    "sxc",
+    "PRP"
   ],
   "pan": [
-    "?"
+    "sxc"
   ],
   "Alla": [
     "NNP"
@@ -4040,7 +4041,7 @@
     "RB"
   ],
   "alldenstund": [
-    "?"
+    "sn"
   ],
   "allé": [
     "NN"
@@ -4102,7 +4103,7 @@
     "JJ"
   ],
   "allena saliggörande": [
-    "?"
+    "avm"
   ],
   "allenast": [
     "RB"
@@ -4142,10 +4143,10 @@
     "JJ"
   ],
   "allesamman": [
-    "?"
+    "PRP"
   ],
   "allesammans": [
-    "?"
+    "PRP"
   ],
   "allestädes": [
     "RB"
@@ -4220,10 +4221,10 @@
     "NN"
   ],
   "allihopa": [
-    "?"
+    "PRP"
   ],
   "allihop": [
-    "?"
+    "PRP"
   ],
   "Allis": [
     "NNP"
@@ -4445,16 +4446,16 @@
     "NN"
   ],
   "allom bekant": [
-    "?"
+    "avm"
   ],
   "allomfattande": [
     "JJ"
   ],
   "allom förunnad": [
-    "?"
+    "avm"
   ],
   "allom given": [
-    "?"
+    "avm"
   ],
   "allomorf": [
     "NN",
@@ -4482,7 +4483,7 @@
     "JJ"
   ],
   "all right": [
-    "?"
+    "inm"
   ],
   "allriskförsäkring": [
     "NN"
@@ -4491,7 +4492,7 @@
     "JJ"
   ],
   "all round": [
-    "?"
+    "avm"
   ],
   "allroundsåg": [
     "NN"
@@ -4555,7 +4556,7 @@
     "IN"
   ],
   "allt efter": [
-    "?"
+    "ppm"
   ],
   "allt efter smak": [
     "RB"
@@ -4564,10 +4565,10 @@
     "RB"
   ],
   "allteftersom": [
-    "?"
+    "sn"
   ],
   "allt eftersom": [
-    "?"
+    "snm"
   ],
   "alltemellan": [
     "RB"
@@ -4579,10 +4580,10 @@
     "RB"
   ],
   "alltflera": [
-    "?"
+    "PRP"
   ],
   "alltfler": [
-    "?"
+    "PRP"
   ],
   "alltfort": [
     "RB"
@@ -4597,7 +4598,7 @@
     "RB"
   ],
   "allt har sin tid": [
-    "?"
+    "inm"
   ],
   "alltiallo": [
     "NN"
@@ -4612,7 +4613,7 @@
     "RB"
   ],
   "allt-i-ett": [
-    "?"
+    "mxc"
   ],
   "alltifrån": [
     "IN"
@@ -4621,14 +4622,14 @@
     "RB"
   ],
   "alltihopa": [
-    "?"
+    "PRP"
   ],
   "alltihop": [
-    "?"
+    "PRP"
   ],
   "allting": [
     "NN",
-    "?"
+    "PRP"
   ],
   "alltintill": [
     "IN"
@@ -4637,7 +4638,7 @@
     "RB"
   ],
   "alltmedan": [
-    "?"
+    "sn"
   ],
   "alltmera": [
     "RB"
@@ -4652,7 +4653,7 @@
     "RB"
   ],
   "allt möjligt": [
-    "?"
+    "pnm"
   ],
   "alltnog": [
     "RB"
@@ -4661,10 +4662,10 @@
     "JJ"
   ],
   "alltsamman": [
-    "?"
+    "PRP"
   ],
   "alltsammans": [
-    "?"
+    "PRP"
   ],
   "alltsedan": [
     "IN"
@@ -4679,19 +4680,19 @@
     "RB"
   ],
   "allt uppslukande": [
-    "?"
+    "avm"
   ],
   "allt huset förmådde": [
-    "?"
+    "pnm"
   ],
   "allt huset förmår": [
-    "?"
+    "pnm"
   ],
   "allt vad huset förmådde": [
-    "?"
+    "pnm"
   ],
   "allt vad huset förmår": [
-    "?"
+    "pnm"
   ],
   "allt vad tygen håller": [
     "RB"
@@ -6706,7 +6707,7 @@
     "NN"
   ],
   "andraklass": [
-    "?"
+    "mxc"
   ],
   "andra klass": [
     "NN"
@@ -6736,7 +6737,7 @@
     "NN"
   ],
   "andrarangs": [
-    "?"
+    "mxc"
   ],
   "andraslagsförmåga": [
     "NN"
@@ -6748,7 +6749,7 @@
     "NN"
   ],
   "andra tider andra seder": [
-    "?"
+    "inm"
   ],
   "andratidning": [
     "NN"
@@ -7921,7 +7922,7 @@
     "NNP"
   ],
   "ann": [
-    "?"
+    "PRP"
   ],
   "Anna": [
     "NNP"
@@ -7943,7 +7944,7 @@
     "NN"
   ],
   "annan": [
-    "?"
+    "PRP"
   ],
   "annandag": [
     "NN"
@@ -8142,7 +8143,7 @@
     "NN"
   ],
   "annuitetslåne": [
-    "?"
+    "sxc"
   ],
   "annuitetslån": [
     "NN"
@@ -9792,10 +9793,10 @@
     "NNP"
   ],
   "a och o": [
-    "?"
+    "avm"
   ],
   "A och O": [
-    "?"
+    "avm"
   ],
   "aorist": [
     "NN"
@@ -10374,10 +10375,10 @@
     "NN"
   ],
   "april, april": [
-    "?"
+    "inm"
   ],
   "april, april, din dumma sill": [
-    "?"
+    "inm"
   ],
   "aprildag": [
     "NN"
@@ -12640,7 +12641,7 @@
     "NN"
   ],
   "as": [
-    "?",
+    "sxc",
     "NN"
   ],
   "asa": [
@@ -13675,7 +13676,7 @@
     "NN"
   ],
   "att": [
-    "?"
+    "sn"
   ],
   "attaché": [
     "NN"
@@ -14423,10 +14424,10 @@
     "NN"
   ],
   "av annat skrot och korn": [
-    "?"
+    "avm"
   ],
   "av annat virke": [
-    "?"
+    "avm"
   ],
   "avannons": [
     "NN"
@@ -14546,7 +14547,7 @@
     "NN"
   ],
   "av betydelse": [
-    "?"
+    "avm"
   ],
   "avbild": [
     "NN"
@@ -14720,7 +14721,7 @@
     "RB"
   ],
   "av den ullen": [
-    "?"
+    "avm"
   ],
   "avdikning": [
     "NN"
@@ -14846,7 +14847,7 @@
     "NNP"
   ],
   "av facket": [
-    "?"
+    "avm"
   ],
   "avfall": [
     "NN"
@@ -15180,10 +15181,10 @@
     "NN"
   ],
   "av guds nåde": [
-    "?"
+    "avm"
   ],
   "av Guds nåde": [
-    "?"
+    "avm"
   ],
   "avgå": [
     "VB"
@@ -15833,7 +15834,7 @@
     "NN"
   ],
   "av liten omfattning": [
-    "?"
+    "avm"
   ],
   "avliva": [
     "VB"
@@ -16554,13 +16555,13 @@
     "NN"
   ],
   "av samma skrot och korn": [
-    "?"
+    "avm"
   ],
   "av samma ull": [
-    "?"
+    "avm"
   ],
   "av samma virke": [
-    "?"
+    "avm"
   ],
   "avsats": [
     "NN"
@@ -17201,7 +17202,7 @@
     "NN"
   ],
   "av stor omfattning": [
-    "?"
+    "avm"
   ],
   "avstressa": [
     "VB"
@@ -17384,7 +17385,7 @@
     "NN"
   ],
   "av sällan skådat slag": [
-    "?"
+    "avm"
   ],
   "avsända": [
     "VB"
@@ -17682,7 +17683,7 @@
     "VB"
   ],
   "av underordnad betydelse": [
-    "?"
+    "avm"
   ],
   "avundsam": [
     "JJ"
@@ -17733,7 +17734,7 @@
     "NN"
   ],
   "av varierande omfattning": [
-    "?"
+    "avm"
   ],
   "avvattna": [
     "VB"
@@ -17794,7 +17795,7 @@
     "JJ"
   ],
   "av vikt": [
-    "?"
+    "avm"
   ],
   "avvindning": [
     "NN"
@@ -19080,7 +19081,7 @@
     "IN"
   ],
   "bakom flötet": [
-    "?"
+    "avm"
   ],
   "bakom galler": [
     "RB"
@@ -20039,7 +20040,7 @@
     "NN"
   ],
   "banklåne": [
-    "?"
+    "sxc"
   ],
   "banklån": [
     "NN"
@@ -20157,10 +20158,10 @@
     "NN"
   ],
   "banne mej": [
-    "?"
+    "inm"
   ],
   "banne mig": [
-    "?"
+    "inm"
   ],
   "bannlysa": [
     "VB"
@@ -20284,7 +20285,7 @@
     "JJ"
   ],
   "bara": [
-    "?",
+    "sn",
     "RB"
   ],
   "bara apropå": [
@@ -20300,7 +20301,7 @@
     "NN"
   ],
   "bara förnamnet": [
-    "?"
+    "avm"
   ],
   "Baran": [
     "NNP"
@@ -20309,7 +20310,7 @@
     "JJ"
   ],
   "bara skinn och ben": [
-    "?"
+    "avm"
   ],
   "baraxlad": [
     "JJ"
@@ -20531,7 +20532,7 @@
     "NN"
   ],
   "barna": [
-    "?"
+    "sxc"
   ],
   "barn": [
     "NN"
@@ -26799,10 +26800,10 @@
     "JJ"
   ],
   "beväpnad till tänderna": [
-    "?"
+    "avm"
   ],
   "väpnad till tänderna": [
-    "?"
+    "avm"
   ],
   "beväpnande": [
     "NN"
@@ -27025,7 +27026,7 @@
     "NN"
   ],
   "bibliotekslåne": [
-    "?"
+    "sxc"
   ],
   "bibliotekslån": [
     "NN"
@@ -28318,7 +28319,7 @@
     "NN"
   ],
   "bio": [
-    "?",
+    "sxc",
     "NN"
   ],
   "bioaktuell": [
@@ -29522,10 +29523,10 @@
     "NN"
   ],
   "bl.a.": [
-    "?"
+    "aba"
   ],
   "bla": [
-    "?"
+    "aba"
   ],
   "bl a": [
     "RB"
@@ -29833,10 +29834,10 @@
     "NN"
   ],
   "blek av rädsla": [
-    "?"
+    "avm"
   ],
   "blek av skräck": [
-    "?"
+    "avm"
   ],
   "blekblå": [
     "JJ"
@@ -29881,7 +29882,7 @@
     "NN"
   ],
   "blek i synen": [
-    "?"
+    "avm"
   ],
   "blekjord": [
     "NN"
@@ -29908,7 +29909,7 @@
     "NN"
   ],
   "blek om nosen": [
-    "?"
+    "avm"
   ],
   "blekröd": [
     "JJ"
@@ -30864,10 +30865,10 @@
     "NN"
   ],
   "blodet är tjockare än vattnet": [
-    "?"
+    "inm"
   ],
   "blod är tjockare än vatten": [
-    "?"
+    "inm"
   ],
   "blodöverfyllnad": [
     "NN"
@@ -31286,7 +31287,7 @@
     "NN"
   ],
   "blott": [
-    "?",
+    "sn",
     "JJ",
     "RB"
   ],
@@ -32261,7 +32262,7 @@
     "NNP"
   ],
   "bo": [
-    "?",
+    "nnh",
     "NN",
     "VB"
   ],
@@ -32807,7 +32808,7 @@
     "NN"
   ],
   "boklåne": [
-    "?"
+    "sxc"
   ],
   "boklån": [
     "NN"
@@ -33214,7 +33215,7 @@
     "NN"
   ],
   "bolåne": [
-    "?"
+    "sxc"
   ],
   "bolån": [
     "NN"
@@ -34105,7 +34106,7 @@
     "NN"
   ],
   "borgenslåne": [
-    "?"
+    "sxc"
   ],
   "borgenslån": [
     "NN"
@@ -34575,7 +34576,7 @@
     "NN"
   ],
   "bort med tassarna": [
-    "?"
+    "inm"
   ],
   "bortmontera": [
     "VB"
@@ -34720,10 +34721,10 @@
     "NN"
   ],
   "bortsett från": [
-    "?"
+    "ppm"
   ],
   "bortsett ifrån": [
-    "?"
+    "ppm"
   ],
   "bortsida": [
     "NN"
@@ -35004,7 +35005,7 @@
     "NN"
   ],
   "bostadsförbättringslåne": [
-    "?"
+    "sxc"
   ],
   "bostadsförbättringslån": [
     "NN"
@@ -35040,7 +35041,7 @@
     "NN"
   ],
   "bostadslåne": [
-    "?"
+    "sxc"
   ],
   "bostadslån": [
     "NN"
@@ -35142,7 +35143,7 @@
     "NN"
   ],
   "bosättningslåne": [
-    "?"
+    "sxc"
   ],
   "bosättningslån": [
     "NN"
@@ -35323,7 +35324,7 @@
     "JJ"
   ],
   "bottenlåne": [
-    "?"
+    "sxc"
   ],
   "bottenlån": [
     "NN"
@@ -35403,11 +35404,11 @@
   ],
   "botten opp": [
     "RB",
-    "?"
+    "inm"
   ],
   "botten upp": [
     "RB",
-    "?"
+    "inm"
   ],
   "bottenvatten": [
     "NN"
@@ -38965,7 +38966,7 @@
     "NN"
   ],
   "bränt barn skyr elden": [
-    "?"
+    "inm"
   ],
   "bräsch": [
     "NN"
@@ -39079,7 +39080,7 @@
     "NN"
   ],
   "Brödrafolkens väl": [
-    "?"
+    "inm"
   ],
   "brödralag": [
     "NN"
@@ -40191,7 +40192,7 @@
     "NN"
   ],
   "burger": [
-    "?"
+    "sxc"
   ],
   "burgarrestaurang": [
     "NN"
@@ -40876,7 +40877,7 @@
     "NN"
   ],
   "byggnadslåne": [
-    "?"
+    "sxc"
   ],
   "byggnadslån": [
     "NN"
@@ -41295,20 +41296,20 @@
   "båda": [
     "NN",
     "VB",
-    "?"
+    "PRP"
   ],
   "både": [
     "RB",
     "NN"
   ],
   "bådadera": [
-    "?"
+    "PRP"
   ],
   "bådande": [
     "NN"
   ],
   "både och": [
-    "?"
+    "knm"
   ],
   "båg": [
     "NN"
@@ -41704,10 +41705,10 @@
     "NN"
   ],
   "bägge": [
-    "?"
+    "PRP"
   ],
   "bäggedera": [
-    "?"
+    "PRP"
   ],
   "bälg": [
     "NN"
@@ -42073,7 +42074,7 @@
     "NN"
   ],
   "bäst": [
-    "?",
+    "sn",
     "JJ"
   ],
   "bästeman": [
@@ -42134,13 +42135,13 @@
     "VB"
   ],
   "bättre att stämma i bäcken än i ån": [
-    "?"
+    "inm"
   ],
   "bättre stämma i bäcken än i ån": [
-    "?"
+    "inm"
   ],
   "det är bättre att stämma i bäcken än i ån": [
-    "?"
+    "inm"
   ],
   "bättre folk": [
     "NN"
@@ -43873,7 +43874,7 @@
     "NNP"
   ],
   "cp": [
-    "?",
+    "ava",
     "NNP"
   ],
   "cerebrospinal": [
@@ -43889,7 +43890,7 @@
     "NN"
   ],
   "ceremonial": [
-    "?"
+    "sxc"
   ],
   "ceremoniell": [
     "JJ"
@@ -45100,10 +45101,10 @@
     "JJ"
   ],
   "ca": [
-    "?"
+    "aba"
   ],
   "c:a": [
-    "?"
+    "aba"
   ],
   "cirka": [
     "RB"
@@ -45218,7 +45219,7 @@
     "NN"
   ],
   "cirkumpolar": [
-    "?",
+    "sxc",
     "JJ"
   ],
   "cirkumpolär": [
@@ -45671,7 +45672,7 @@
     "NN"
   ],
   "c/o": [
-    "?"
+    "ppa"
   ],
   "coach": [
     "NN"
@@ -46056,7 +46057,7 @@
     "JJ"
   ],
   "CP": [
-    "?"
+    "ava"
   ],
   "cp-skadad": [
     "JJ"
@@ -47039,7 +47040,7 @@
   ],
   "da capo": [
     "NN",
-    "?"
+    "inm"
   ],
   "dakapo": [
     "NN",
@@ -48236,7 +48237,7 @@
     "NN"
   ],
   "de": [
-    "?"
+    "PRP"
   ],
   "deadline": [
     "NN"
@@ -49741,13 +49742,14 @@
     "NN"
   ],
   "en": [
+    "PRP",
     "RB",
     "NN",
     "CD",
-    "?"
+    "al"
   ],
   "den": [
-    "?"
+    "PRP"
   ],
   "denar": [
     "NN"
@@ -49789,7 +49791,7 @@
     "NN"
   ],
   "den dagen, den sorgen": [
-    "?"
+    "inm"
   ],
   "dendrit": [
     "NN"
@@ -49807,19 +49809,19 @@
     "NN"
   ],
   "den där": [
-    "?"
+    "pnm"
   ],
   "den ena efter den andra": [
-    "?"
+    "pnm"
   ],
   "den enes död, den andres bröd": [
-    "?"
+    "inm"
   ],
   "Den heliga svepningens kapell": [
     "NNP"
   ],
   "den här": [
-    "?"
+    "pnm"
   ],
   "Denice": [
     "NNP"
@@ -49846,7 +49848,8 @@
     "NN"
   ],
   "denna": [
-    "?"
+    "WDT",
+    "PRP"
   ],
   "dennes": [
     "RB"
@@ -49885,7 +49888,7 @@
     "NN"
   ],
   "densamma": [
-    "?"
+    "PRP"
   ],
   "densitet": [
     "NN"
@@ -49897,19 +49900,19 @@
     "NN"
   ],
   "den som gräver en grop för andra, faller själv däri": [
-    "?"
+    "inm"
   ],
   "den som gräver en grop åt andra, faller själv däri": [
-    "?"
+    "inm"
   ],
   "den som lever får se": [
-    "?"
+    "inm"
   ],
   "den som var den": [
-    "?"
+    "avm"
   ],
   "den som är den": [
-    "?"
+    "avm"
   ],
   "dental": [
     "NN",
@@ -50824,10 +50827,10 @@
     "NN"
   ],
   "både det ena och det andra": [
-    "?"
+    "pnm"
   ],
   "det ena och det andra": [
-    "?"
+    "pnm"
   ],
   "détente": [
     "NN"
@@ -50881,34 +50884,34 @@
     "NNP"
   ],
   "det gjorde det samma": [
-    "?"
+    "inm"
   ],
   "det gjorde detsamma": [
-    "?"
+    "inm"
   ],
   "Det gjorde det samma": [
-    "?"
+    "inm"
   ],
   "Det gjorde detsamma": [
-    "?"
+    "inm"
   ],
   "det gör det samma": [
-    "?"
+    "inm"
   ],
   "det gör detsamma": [
-    "?"
+    "inm"
   ],
   "Det gör det samma": [
-    "?"
+    "inm"
   ],
   "Det gör detsamma": [
-    "?"
+    "inm"
   ],
   "det kan man lugnt säga": [
-    "?"
+    "inm"
   ],
   "Det kan man lugnt säga": [
-    "?"
+    "inm"
   ],
   "detonation": [
     "NN"
@@ -50965,19 +50968,19 @@
     "UH"
   ],
   "det vete fan": [
-    "?"
+    "inm"
   ],
   "det vete fåglarna": [
-    "?"
+    "inm"
   ],
   "det vill säga": [
     "RB"
   ],
   "d.v.s.": [
-    "?"
+    "aba"
   ],
   "dvs": [
-    "?"
+    "aba"
   ],
   "d v s": [
     "RB"
@@ -50986,16 +50989,16 @@
     "RB"
   ],
   "det vill till": [
-    "?"
+    "inm"
   ],
   "det är lugnt": [
-    "?"
+    "inm"
   ],
   "Det är lugnt": [
-    "?"
+    "inm"
   ],
   "det är väl att ta i": [
-    "?"
+    "inm"
   ],
   "deuce": [
     "RB"
@@ -51327,7 +51330,7 @@
     "JJ"
   ],
   "diametralt motsatt": [
-    "?"
+    "avm"
   ],
   "Diana": [
     "NNP"
@@ -51681,7 +51684,7 @@
     "NN"
   ],
   "dik": [
-    "?"
+    "sxc"
   ],
   "dikesgrävare": [
     "NN"
@@ -53129,7 +53132,7 @@
     "JJ"
   ],
   "ditt och datt": [
-    "?"
+    "pnm"
   ],
   "ditut": [
     "RB"
@@ -53177,10 +53180,10 @@
     "NN"
   ],
   "div.": [
-    "?"
+    "ava"
   ],
   "div": [
-    "?"
+    "ava"
   ],
   "diverse": [
     "JJ"
@@ -54099,7 +54102,7 @@
   ],
   "krypto": [
     "NN",
-    "?"
+    "sxc"
   ],
   "doldhet": [
     "NN"
@@ -54160,6 +54163,7 @@
     "NN"
   ],
   "dom": [
+    "PRP",
     "NN"
   ],
   "domare": [
@@ -54918,7 +54922,7 @@
   ],
   "drag": [
     "NN",
-    "?"
+    "sxc"
   ],
   "dra": [
     "VB"
@@ -55315,7 +55319,7 @@
     "VB"
   ],
   "dra mig baklänges": [
-    "?"
+    "inm"
   ],
   "dra ned": [
     "VB"
@@ -55366,7 +55370,7 @@
     "VB"
   ],
   "dra på trissor": [
-    "?"
+    "inm"
   ],
   "dras": [
     "VB"
@@ -55480,14 +55484,14 @@
     "VB"
   ],
   "dra åt fanders": [
-    "?"
+    "inm"
   ],
   "dra åt helvete": [
-    "?",
+    "inm",
     "VB"
   ],
   "dra åt skogen": [
-    "?",
+    "inm",
     "VB"
   ],
   "dra åt tumskruvarna": [
@@ -55824,7 +55828,7 @@
     "NN"
   ],
   "drive-in": [
-    "?"
+    "mxc"
   ],
   "drive in": [
     "NN"
@@ -56600,10 +56604,10 @@
     "RB"
   ],
   "du": [
-    "?"
+    "PRP"
   ],
   "Du": [
-    "?"
+    "PRP"
   ],
   "dua": [
     "VB"
@@ -57133,19 +57137,19 @@
     "NN"
   ],
   "du milde": [
-    "?"
+    "inm"
   ],
   "du milda tid": [
-    "?"
+    "inm"
   ],
   "du milde tid": [
-    "?"
+    "inm"
   ],
   "dumkåt": [
     "JJ"
   ],
   "dummare än tåget": [
-    "?"
+    "avm"
   ],
   "dumma sig": [
     "VB"
@@ -57214,7 +57218,7 @@
     "NNP"
   ],
   "dunder": [
-    "?",
+    "sxc",
     "NN"
   ],
   "dundergud": [
@@ -57685,10 +57689,10 @@
     "RB"
   ],
   "dygnet-runt": [
-    "?"
+    "mxc"
   ],
   "dygnetrunt": [
-    "?"
+    "mxc"
   ],
   "dygnetruntöppen": [
     "JJ"
@@ -57776,7 +57780,7 @@
     "NNP"
   ],
   "dylik": [
-    "?"
+    "PRP"
   ],
   "dymedels": [
     "RB"
@@ -58052,7 +58056,7 @@
     "NNP"
   ],
   "då": [
-    "?",
+    "sn",
     "RB"
   ],
   "dåd": [
@@ -58347,7 +58351,7 @@
     "RB"
   ],
   "därest": [
-    "?"
+    "sn"
   ],
   "därframme": [
     "RB"
@@ -58398,10 +58402,10 @@
     "RB"
   ],
   "därmed basta": [
-    "?"
+    "inm"
   ],
   "därmed punkt": [
-    "?"
+    "inm"
   ],
   "därnedanför": [
     "RB"
@@ -58515,7 +58519,7 @@
     "NN"
   ],
   "dö": [
-    "?",
+    "sxc",
     "VB"
   ],
   "döbattang": [
@@ -59556,7 +59560,7 @@
   ],
   "post": [
     "NN",
-    "?"
+    "sxc"
   ],
   "efteraccept": [
     "NN"
@@ -59685,7 +59689,7 @@
     "NN"
   ],
   "efter det att": [
-    "?"
+    "snm"
   ],
   "efterdyning": [
     "NN"
@@ -59884,7 +59888,7 @@
     "RB"
   ],
   "e.Kr.": [
-    "?"
+    "aba"
   ],
   "e Kr": [
     "RB"
@@ -60085,7 +60089,7 @@
     "JJ"
   ],
   "efter sin tid": [
-    "?"
+    "avm"
   ],
   "eftersits": [
     "NN"
@@ -60145,7 +60149,7 @@
     "NN"
   ],
   "eftersom": [
-    "?"
+    "sn"
   ],
   "eftersommar": [
     "NN"
@@ -60724,7 +60728,7 @@
     "NN"
   ],
   "eho": [
-    "?"
+    "PRP"
   ],
   "Ehrensvärd": [
     "NNP"
@@ -60733,13 +60737,13 @@
     "NNP"
   ],
   "ehuru": [
-    "?"
+    "sn"
   ],
   "ehurudan": [
-    "?"
+    "PRP"
   ],
   "ehuruväl": [
-    "?"
+    "sn"
   ],
   "Eidem": [
     "NNP"
@@ -60983,7 +60987,7 @@
     "NNP"
   ],
   "eko": [
-    "?",
+    "sxc",
     "NN"
   ],
   "ekoaktivism": [
@@ -61123,7 +61127,7 @@
   ],
   "ekonomiskt oberoende": [
     "NN",
-    "?"
+    "avm"
   ],
   "ekonomiutbildning": [
     "NN"
@@ -61526,7 +61530,7 @@
     "NN"
   ],
   "eld i berget": [
-    "?"
+    "inm"
   ],
   "eldig": [
     "JJ"
@@ -61583,7 +61587,7 @@
     "NN"
   ],
   "eld och lågor": [
-    "?"
+    "avm"
   ],
   "eldorado": [
     "NN"
@@ -61889,7 +61893,7 @@
     "JJ"
   ],
   "elektro": [
-    "?"
+    "sxc"
   ],
   "elektriska stolen": [
     "NN"
@@ -62126,7 +62130,7 @@
     "NN"
   ],
   "elementar": [
-    "?"
+    "sxc"
   ],
   "elementär": [
     "JJ"
@@ -62471,10 +62475,10 @@
     "NNP"
   ],
   "eller": [
-    "?"
+    "kn"
   ],
   "eller hur": [
-    "?"
+    "inm"
   ],
   "Elli": [
     "NNP"
@@ -62997,7 +63001,7 @@
     "NN"
   ],
   "emedan": [
-    "?"
+    "sn"
   ],
   "Emeli": [
     "NNP"
@@ -63321,7 +63325,7 @@
     "CD"
   ],
   "ena": [
-    "?",
+    "PRP",
     "VB"
   ],
   "enahanda": [
@@ -63344,7 +63348,7 @@
     "RB"
   ],
   "en annan": [
-    "?"
+    "pnm"
   ],
   "Enar": [
     "NNP"
@@ -63455,7 +63459,7 @@
     "JJ"
   ],
   "en del": [
-    "?"
+    "pnm"
   ],
   "endels": [
     "RB"
@@ -63468,7 +63472,7 @@
   ],
   "endera": [
     "RB",
-    "?"
+    "PRP"
   ],
   "endera dagen": [
     "RB"
@@ -63783,10 +63787,10 @@
     "JJ"
   ],
   "en för alla, alla för en": [
-    "?"
+    "inm"
   ],
   "en för alla, och alla för en": [
-    "?"
+    "inm"
   ],
   "enföräldersfamilj": [
     "NN"
@@ -63822,7 +63826,7 @@
     "NNP"
   ],
   "anglo": [
-    "?"
+    "sxc"
   ],
   "engelsk": [
     "JJ"
@@ -63895,7 +63899,7 @@
   ],
   "en gnutta": [
     "RB",
-    "?"
+    "pnm"
   ],
   "Engquist": [
     "NNP"
@@ -64003,7 +64007,7 @@
     "RB"
   ],
   "en gång är ingen gång": [
-    "?"
+    "inm"
   ],
   "enharmonisk": [
     "JJ"
@@ -64096,10 +64100,10 @@
     "NNP"
   ],
   "en i sänder": [
-    "?"
+    "pnm"
   ],
   "ett i sänder": [
-    "?"
+    "pnm"
   ],
   "enjambemang": [
     "NN"
@@ -64234,7 +64238,7 @@
     "NN"
   ],
   "en kotte": [
-    "?"
+    "pnm"
   ],
   "enkrona": [
     "NN"
@@ -64255,7 +64259,7 @@
     "NN"
   ],
   "en levande själ": [
-    "?"
+    "pnm"
   ],
   "enlevera": [
     "VB"
@@ -64315,25 +64319,25 @@
     "JJ"
   ],
   "en och annan": [
-    "?"
+    "pnm"
   ],
   "ett och annat": [
-    "?"
+    "pnm"
   ],
   "en och annan gång": [
     "RB"
   ],
   "en och en": [
-    "?"
+    "pnm"
   ],
   "ett och ett": [
-    "?"
+    "pnm"
   ],
   "en och samma": [
-    "?"
+    "pnm"
   ],
   "ett och samma": [
-    "?"
+    "pnm"
   ],
   "enorm": [
     "JJ"
@@ -64408,6 +64412,7 @@
     "JJ"
   ],
   "ens": [
+    "PRP",
     "RB",
     "JJ"
   ],
@@ -64442,7 +64447,7 @@
     "NN"
   ],
   "ensam i sitt slag": [
-    "?"
+    "avm"
   ],
   "ensamkommande": [
     "JJ"
@@ -64601,7 +64606,7 @@
     "NN"
   ],
   "en susning": [
-    "?"
+    "pnm"
   ],
   "en syl i vädret": [
     "NN"
@@ -64763,7 +64768,7 @@
     "RB"
   ],
   "envar": [
-    "?"
+    "PRP"
   ],
   "Enver": [
     "NNP"
@@ -64850,7 +64855,7 @@
     "NN"
   ],
   "enär": [
-    "?"
+    "sn"
   ],
   "enögd": [
     "JJ"
@@ -65123,6 +65128,8 @@
     "NN"
   ],
   "era": [
+    "PP$",
+    "PRP",
     "NN"
   ],
   "Erasmus av Rotterdam": [
@@ -65924,7 +65931,7 @@
     "NNP"
   ],
   "et": [
-    "?"
+    "kn"
   ],
   "eta": [
     "NN"
@@ -65996,10 +66003,10 @@
     "NN"
   ],
   "etc.": [
-    "?"
+    "aba"
   ],
   "etc": [
-    "?"
+    "aba"
   ],
   "etcetera": [
     "RB"
@@ -66044,7 +66051,7 @@
     "NN"
   ],
   "etermedia": [
-    "?"
+    "sxc"
   ],
   "etermedium": [
     "NN"
@@ -66239,10 +66246,10 @@
     "NN"
   ],
   "ett dugg": [
-    "?"
+    "pnm"
   ],
   "ett dyft": [
-    "?"
+    "pnm"
   ],
   "etter": [
     "NN"
@@ -66251,25 +66258,25 @@
     "NN"
   ],
   "etter värre": [
-    "?"
+    "avm"
   ],
   "ettiden": [
     "NN"
   ],
   "ett jota": [
-    "?"
+    "pnm"
   ],
   "ett knyst": [
-    "?"
+    "pnm"
   ],
   "ett korvöre": [
-    "?"
+    "pnm"
   ],
   "ett muck": [
-    "?"
+    "pnm"
   ],
   "ett par": [
-    "?"
+    "pnm"
   ],
   "ettrig": [
     "JJ"
@@ -66281,13 +66288,13 @@
     "NN"
   ],
   "ett skvatt": [
-    "?"
+    "pnm"
   ],
   "ett smack": [
-    "?"
+    "pnm"
   ],
   "ett smul": [
-    "?"
+    "pnm"
   ],
   "ettsnåret": [
     "NN"
@@ -66305,7 +66312,7 @@
     "RB"
   ],
   "ett vitten": [
-    "?"
+    "pnm"
   ],
   "ettårig": [
     "JJ"
@@ -66464,7 +66471,7 @@
     "NN"
   ],
   "euro": [
-    "?",
+    "sxc",
     "NN"
   ],
   "eurodollar": [
@@ -66607,7 +66614,8 @@
     "NN"
   ],
   "evad": [
-    "?"
+    "PRP",
+    "sn"
   ],
   "Eva Ek": [
     "NNP"
@@ -66730,7 +66738,7 @@
     "NNP"
   ],
   "evem": [
-    "?"
+    "PRP"
   ],
   "evenemang": [
     "NN"
@@ -66742,10 +66750,10 @@
     "NN"
   ],
   "ev.": [
-    "?"
+    "ava"
   ],
   "ev": [
-    "?"
+    "ava"
   ],
   "eventuell": [
     "JJ"
@@ -66856,7 +66864,7 @@
     "NN"
   ],
   "ex": [
-    "?",
+    "sxc",
     "NN"
   ],
   "EB": [
@@ -67176,7 +67184,7 @@
     "JJ"
   ],
   "existential": [
-    "?"
+    "sxc"
   ],
   "existentiell": [
     "JJ"
@@ -67216,10 +67224,10 @@
     "JJ"
   ],
   "exkl.": [
-    "?"
+    "ppa"
   ],
   "exkl": [
-    "?"
+    "ppa"
   ],
   "exklusive": [
     "IN"
@@ -67454,7 +67462,7 @@
     "NN"
   ],
   "experimental": [
-    "?"
+    "sxc"
   ],
   "experimentell": [
     "JJ"
@@ -67619,7 +67627,7 @@
     "NN"
   ],
   "exponential": [
-    "?"
+    "sxc"
   ],
   "exponentiell": [
     "JJ"
@@ -67854,7 +67862,7 @@
     "NN"
   ],
   "exterritorial": [
-    "?"
+    "sxc"
   ],
   "exterritoriell": [
     "JJ"
@@ -68013,31 +68021,31 @@
     "JJ"
   ],
   "hyper": [
-    "?"
+    "sxc"
   ],
   "knall": [
     "JJ",
     "NN",
-    "?"
+    "sxc"
   ],
   "ultra": [
     "NN",
-    "?"
+    "sxc"
   ],
   "ur": [
     "NN",
     "IN",
-    "?"
+    "sxc"
   ],
   "vrål": [
     "NN",
-    "?"
+    "sxc"
   ],
   "über": [
-    "?"
+    "sxc"
   ],
   "ärke": [
-    "?"
+    "sxc"
   ],
   "extremfall": [
     "NN"
@@ -68969,7 +68977,7 @@
     "JJ"
   ],
   "pseudo": [
-    "?"
+    "sxc"
   ],
   "falskeligen": [
     "RB"
@@ -69247,7 +69255,7 @@
     "NN"
   ],
   "fan anamma": [
-    "?"
+    "inm"
   ],
   "fanatiker": [
     "NN"
@@ -69302,7 +69310,7 @@
     "NNP"
   ],
   "fan och hans moster": [
-    "?"
+    "pnm"
   ],
   "fanskap": [
     "NN"
@@ -69416,7 +69424,7 @@
     "NNP"
   ],
   "Fantom": [
-    "?"
+    "sxc"
   ],
   "fantomlik": [
     "JJ"
@@ -69787,10 +69795,10 @@
     "JJ"
   ],
   "far åt helvete": [
-    "?"
+    "inm"
   ],
   "far åt skogen": [
-    "?"
+    "inm"
   ],
   "fas": [
     "NN"
@@ -69971,7 +69979,7 @@
     "NN"
   ],
   "fast": [
-    "?",
+    "kn",
     "RB",
     "JJ"
   ],
@@ -69986,7 +69994,7 @@
     "NN"
   ],
   "faste": [
-    "?"
+    "sxc"
   ],
   "fastande": [
     "NN"
@@ -70284,7 +70292,7 @@
     "NN"
   ],
   "fastän": [
-    "?"
+    "kn"
   ],
   "fat": [
     "NN"
@@ -70985,7 +70993,7 @@
     "JJ"
   ],
   "fel ute": [
-    "?"
+    "avm"
   ],
   "felutveckling": [
     "NN"
@@ -72730,7 +72738,7 @@
     "JJ"
   ],
   "fina fisken": [
-    "?"
+    "avm"
   ],
   "final": [
     "JJ",
@@ -74362,7 +74370,7 @@
     "NN"
   ],
   "fjärr": [
-    "?",
+    "sxc",
     "NN"
   ],
   "fjärran": [
@@ -74826,7 +74834,7 @@
   ],
   "flasklock": [
     "NN",
-    "?"
+    "PRP"
   ],
   "flasknosdelfin": [
     "NN"
@@ -74961,10 +74969,10 @@
     "NN"
   ],
   "flera": [
-    "?"
+    "PRP"
   ],
   "fler": [
-    "?"
+    "sxc"
   ],
   "flerbarnsfamilj": [
     "NN"
@@ -75778,7 +75786,7 @@
     "NN"
   ],
   "flunder": [
-    "?"
+    "sxc"
   ],
   "flundra": [
     "NN"
@@ -75878,7 +75886,7 @@
     "VB"
   ],
   "fly förbannad": [
-    "?"
+    "avm"
   ],
   "flyg": [
     "NN"
@@ -77147,7 +77155,7 @@
     "NN"
   ],
   "folk": [
-    "?",
+    "PRP",
     "NN"
   ],
   "folkanda": [
@@ -78007,7 +78015,7 @@
     "NN"
   ],
   "formal": [
-    "?"
+    "sxc"
   ],
   "formell": [
     "JJ"
@@ -81787,10 +81795,10 @@
     "NN"
   ],
   "friskt vågat, hälften vunnet": [
-    "?"
+    "inm"
   ],
   "friskt vågat är hälften vunnet": [
-    "?"
+    "inm"
   ],
   "friskus": [
     "NN"
@@ -82000,7 +82008,7 @@
     "NN"
   ],
   "fritt fram": [
-    "?"
+    "avm"
   ],
   "fritt vivre": [
     "NN"
@@ -82788,7 +82796,7 @@
     "NN"
   ],
   "fr.": [
-    "?"
+    "ppa"
   ],
   "från": [
     "RB",
@@ -82882,10 +82890,10 @@
     "RB"
   ],
   "fr.o.m.": [
-    "?"
+    "ppa"
   ],
   "från och med": [
-    "?"
+    "ppm"
   ],
   "från och med denna dag": [
     "RB"
@@ -82927,7 +82935,7 @@
     "NN"
   ],
   "från sina sinnen": [
-    "?"
+    "avm"
   ],
   "frånskild": [
     "JJ"
@@ -83011,7 +83019,7 @@
     "NN"
   ],
   "från vettet": [
-    "?"
+    "avm"
   ],
   "frånvänd": [
     "JJ"
@@ -83410,7 +83418,7 @@
     "NN"
   ],
   "ful i munnen": [
-    "?"
+    "avm"
   ],
   "fuling": [
     "NN"
@@ -83524,10 +83532,10 @@
     "NN"
   ],
   "full i fan": [
-    "?"
+    "avm"
   ],
   "full i sjutton": [
-    "?"
+    "avm"
   ],
   "fullklistrad": [
     "JJ"
@@ -83623,13 +83631,13 @@
     "JJ"
   ],
   "full som en alika": [
-    "?"
+    "avm"
   ],
   "full som en kaja": [
-    "?"
+    "avm"
   ],
   "full som ett ägg": [
-    "?"
+    "avm"
   ],
   "fullspikad": [
     "JJ"
@@ -84119,7 +84127,7 @@
     "UH"
   ],
   "fy fan": [
-    "?"
+    "inm"
   ],
   "Führer": [
     "NNP"
@@ -84409,7 +84417,7 @@
     "JJ"
   ],
   "kvadrupel": [
-    "?"
+    "sxc"
   ],
   "fyrfaldiga": [
     "VB"
@@ -84745,7 +84753,8 @@
     "JJ"
   ],
   "fy skam": [
-    "?"
+    "avm",
+    "inm"
   ],
   "fytotron": [
     "NN"
@@ -85565,7 +85574,7 @@
     "NN"
   ],
   "fältet är fritt": [
-    "?"
+    "inm"
   ],
   "fältflaska": [
     "NN"
@@ -86420,13 +86429,13 @@
     "JJ"
   ],
   "född i farstun": [
-    "?"
+    "avm"
   ],
   "född i går": [
-    "?"
+    "avm"
   ],
   "född igår": [
-    "?"
+    "avm"
   ],
   "födelse": [
     "NN"
@@ -86525,7 +86534,7 @@
     "NN"
   ],
   "födslo": [
-    "?"
+    "sxc"
   ],
   "födslorätt": [
     "NN"
@@ -86799,11 +86808,11 @@
   "för": [
     "NN",
     "RB",
-    "?",
+    "kn",
     "IN"
   ],
   "pro": [
-    "?"
+    "sxc"
   ],
   "föra": [
     "VB"
@@ -87531,7 +87540,7 @@
     "NN"
   ],
   "förbättringslåne": [
-    "?"
+    "sxc"
   ],
   "förbättringslån": [
     "NN"
@@ -87830,7 +87839,7 @@
     "IN"
   ],
   "pre": [
-    "?"
+    "sxc"
   ],
   "förebild": [
     "NN"
@@ -87875,16 +87884,16 @@
     "NN"
   ],
   "f.d.": [
-    "?"
+    "ava"
   ],
   "fd": [
-    "?"
+    "ava"
   ],
   "f. d.": [
-    "?"
+    "avm"
   ],
   "före detta": [
-    "?"
+    "avm"
   ],
   "föredra": [
     "VB"
@@ -87994,7 +88003,7 @@
     "NN"
   ],
   "f.Kr.": [
-    "?"
+    "aba"
   ],
   "f Kr": [
     "RB"
@@ -88141,7 +88150,7 @@
     "NN"
   ],
   "före sin tid": [
-    "?"
+    "avm"
   ],
   "föreskrift": [
     "NN"
@@ -88450,7 +88459,7 @@
     "NN"
   ],
   "för fan": [
-    "?",
+    "inm",
     "RB"
   ],
   "förfara": [
@@ -88937,7 +88946,7 @@
     "NN"
   ],
   "för Guds skull": [
-    "?"
+    "inm"
   ],
   "förgylla": [
     "VB"
@@ -89033,7 +89042,7 @@
     "JJ"
   ],
   "för handen": [
-    "?"
+    "avm"
   ],
   "förhandenvarande": [
     "JJ"
@@ -89135,7 +89144,7 @@
     "RB"
   ],
   "för helvete": [
-    "?",
+    "inm",
     "RB"
   ],
   "för himlens alla vindar": [
@@ -89582,7 +89591,7 @@
     "VB"
   ],
   "förkrigs": [
-    "?"
+    "mxc"
   ],
   "förkrigstid": [
     "NN"
@@ -89688,10 +89697,10 @@
     "NN"
   ],
   "f.k.": [
-    "?"
+    "aba"
   ],
   "FK": [
-    "?"
+    "aba"
   ],
   "f. k.": [
     "RB"
@@ -90553,7 +90562,7 @@
     "NN"
   ],
   "f.n.": [
-    "?"
+    "aba"
   ],
   "f n": [
     "RB"
@@ -90929,10 +90938,10 @@
     "NN"
   ],
   "förrn": [
-    "?"
+    "sn"
   ],
   "förrän": [
-    "?"
+    "sn"
   ],
   "förränta": [
     "VB"
@@ -91295,7 +91304,7 @@
     "NN"
   ],
   "för skull": [
-    "?"
+    "ppm"
   ],
   "förskylla": [
     "VB"
@@ -91569,7 +91578,7 @@
     "JJ"
   ],
   "första bästa": [
-    "?"
+    "avm"
   ],
   "förstad": [
     "NN"
@@ -91593,7 +91602,7 @@
     "RB"
   ],
   "förstagångs": [
-    "?"
+    "sxc"
   ],
   "förstagångsbesökande": [
     "NN"
@@ -91623,7 +91632,7 @@
     "NN"
   ],
   "förstaklass": [
-    "?"
+    "mxc"
   ],
   "första klass": [
     "NN"
@@ -92233,7 +92242,7 @@
     "NN"
   ],
   "För Sverige i tiden": [
-    "?"
+    "inm"
   ],
   "försvinna": [
     "VB"
@@ -92297,10 +92306,10 @@
     "NN"
   ],
   "försåvida": [
-    "?"
+    "sn"
   ],
   "försåvitt": [
-    "?"
+    "sn"
   ],
   "försäga sig": [
     "VB"
@@ -92681,7 +92690,7 @@
     "JJ"
   ],
   "för tidig": [
-    "?"
+    "avm"
   ],
   "förtidsbörd": [
     "NN"
@@ -93013,7 +93022,7 @@
     "NN"
   ],
   "för tusan": [
-    "?"
+    "inm"
   ],
   "förtvina": [
     "VB"
@@ -93464,7 +93473,7 @@
     "NN"
   ],
   "för vidkommande": [
-    "?"
+    "ppm"
   ],
   "förvikingatida": [
     "JJ"
@@ -93485,7 +93494,7 @@
     "NN"
   ],
   "förvillande lik": [
-    "?"
+    "avm"
   ],
   "förvillare": [
     "NN"
@@ -93828,7 +93837,7 @@
     "NN"
   ],
   "föräldra": [
-    "?"
+    "sxc"
   ],
   "förälderlig": [
     "JJ"
@@ -94804,7 +94813,7 @@
     "JJ"
   ],
   "gammel": [
-    "?"
+    "sxc"
   ],
   "gammaldags": [
     "JJ"
@@ -94846,7 +94855,7 @@
     "JJ"
   ],
   "gammal som gatan": [
-    "?"
+    "avm"
   ],
   "gammalstavning": [
     "NN"
@@ -94876,7 +94885,7 @@
     "NN"
   ],
   "gammelmedia": [
-    "?"
+    "sxc"
   ],
   "gammelmedium": [
     "NN"
@@ -95068,7 +95077,7 @@
     "NN"
   ],
   "garantilåne": [
-    "?"
+    "sxc"
   ],
   "garantilån": [
     "NN"
@@ -96194,7 +96203,7 @@
     "JJ"
   ],
   "general": [
-    "?",
+    "sxc",
     "NN"
   ],
   "generalagent": [
@@ -98479,7 +98488,7 @@
     "NN"
   ],
   "giv akt": [
-    "?"
+    "inm"
   ],
   "givande": [
     "NN",
@@ -98692,7 +98701,7 @@
     "NN"
   ],
   "glad i": [
-    "?"
+    "avm"
   ],
   "gladiator": [
     "NN"
@@ -100478,7 +100487,7 @@
     "UH"
   ],
   "god dag": [
-    "?"
+    "inm"
   ],
   "godda": [
     "UH"
@@ -100490,7 +100499,7 @@
     "NN"
   ],
   "goddag yxskaft": [
-    "?"
+    "inm"
   ],
   "gode": [
     "NN"
@@ -100502,7 +100511,7 @@
     "NN"
   ],
   "god fortsättning": [
-    "?"
+    "inm"
   ],
   "godhet": [
     "NN"
@@ -100550,16 +100559,16 @@
     "NN"
   ],
   "god jul": [
-    "?"
+    "inm"
   ],
   "God Jul": [
-    "?"
+    "inm"
   ],
   "godkväll": [
     "UH"
   ],
   "god kväll": [
-    "?"
+    "inm"
   ],
   "gokväll": [
     "UH"
@@ -100592,7 +100601,7 @@
     "UH"
   ],
   "god morgon": [
-    "?"
+    "inm"
   ],
   "gomorron": [
     "UH"
@@ -100604,7 +100613,7 @@
     "UH"
   ],
   "god natt": [
-    "?"
+    "inm"
   ],
   "gonatt": [
     "UH"
@@ -101223,7 +101232,7 @@
     "NN"
   ],
   "gott folk": [
-    "?"
+    "inm"
   ],
   "Gottfrid": [
     "NNP"
@@ -101259,10 +101268,10 @@
     "NN"
   ],
   "gott nytt år": [
-    "?"
+    "inm"
   ],
   "Gott Nytt År": [
-    "?"
+    "inm"
   ],
   "gott och väl": [
     "RB"
@@ -101274,7 +101283,7 @@
     "NN"
   ],
   "gott slut": [
-    "?"
+    "inm"
   ],
   "gouache": [
     "NN"
@@ -101488,7 +101497,7 @@
     "NN"
   ],
   "gradual": [
-    "?"
+    "sxc"
   ],
   "graduell": [
     "JJ"
@@ -102827,7 +102836,7 @@
     "NNP"
   ],
   "gripen ur luften": [
-    "?"
+    "avm"
   ],
   "gripfot": [
     "NN"
@@ -104957,7 +104966,7 @@
     "NNP"
   ],
   "grön av avund": [
-    "?"
+    "avm"
   ],
   "grönavågare": [
     "NN"
@@ -105403,13 +105412,13 @@
     "NN"
   ],
   "Gud förbjude": [
-    "?"
+    "inm"
   ],
   "gudi behaglig": [
-    "?"
+    "avm"
   ],
   "Gudi behaglig": [
-    "?"
+    "avm"
   ],
   "gudilov": [
     "RB"
@@ -105448,13 +105457,13 @@
     "NNP"
   ],
   "Gud nåde": [
-    "?"
+    "inm"
   ],
   "Gud nåde dig": [
-    "?"
+    "inm"
   ],
   "Gud nåde oss": [
-    "?"
+    "inm"
   ],
   "gudom": [
     "NN"
@@ -106778,7 +106787,7 @@
     "NN"
   ],
   "gynnsamt stämd": [
-    "?"
+    "avm"
   ],
   "Günter": [
     "NNP"
@@ -106862,7 +106871,7 @@
     "NN"
   ],
   "gåbort": [
-    "?"
+    "mxc"
   ],
   "gå bort sig": [
     "VB"
@@ -108429,7 +108438,7 @@
     "NN"
   ],
   "habitual": [
-    "?"
+    "sxc"
   ],
   "habituell": [
     "JJ"
@@ -108523,7 +108532,7 @@
     "NNP"
   ],
   "ha det": [
-    "?"
+    "inm"
   ],
   "Hadi": [
     "NNP"
@@ -109211,7 +109220,7 @@
     "NN"
   ],
   "hal som en ål": [
-    "?"
+    "avm"
   ],
   "halsrem": [
     "NN"
@@ -109910,7 +109919,7 @@
     "NN"
   ],
   "hamburger": [
-    "?"
+    "sxc"
   ],
   "hamburgarbar": [
     "NN"
@@ -110084,7 +110093,7 @@
     "NNP"
   ],
   "han": [
-    "?"
+    "PRP"
   ],
   "Hana": [
     "NNP"
@@ -110307,7 +110316,7 @@
     "NN"
   ],
   "handen på hjärtat": [
-    "?"
+    "inm"
   ],
   "handfallen": [
     "JJ"
@@ -110559,7 +110568,7 @@
     "NN"
   ],
   "handlåne": [
-    "?"
+    "sxc"
   ],
   "handlån": [
     "NN"
@@ -111066,7 +111075,7 @@
     "NN"
   ],
   "har man hört på maken": [
-    "?"
+    "inm"
   ],
   "harmas": [
     "VB"
@@ -112280,7 +112289,7 @@
     "UH"
   ],
   "hej då": [
-    "?"
+    "inm"
   ],
   "hejig": [
     "JJ"
@@ -112289,10 +112298,10 @@
     "UH"
   ],
   "hejs svejs": [
-    "?"
+    "inm"
   ],
   "hej svejs": [
-    "?"
+    "inm"
   ],
   "hejvild": [
     "JJ"
@@ -112362,16 +112371,16 @@
     "RB"
   ],
   "hela faderullan": [
-    "?"
+    "pnm"
   ],
   "helafton": [
     "NN"
   ],
   "hela högen": [
-    "?"
+    "pnm"
   ],
   "hela konkarongen": [
-    "?"
+    "pnm"
   ],
   "helande": [
     "NN"
@@ -112383,10 +112392,10 @@
     "NNP"
   ],
   "hela rasket": [
-    "?"
+    "pnm"
   ],
   "hela surven": [
-    "?"
+    "pnm"
   ],
   "hela tiden": [
     "RB"
@@ -112746,10 +112755,10 @@
     "NNP"
   ],
   "bättre en fågel i handen, än tio i skogen": [
-    "?"
+    "inm"
   ],
   "hellre en fågel i handen, än tio i skogen": [
-    "?"
+    "inm"
   ],
   "Hellström": [
     "NNP"
@@ -113222,7 +113231,7 @@
     "NN"
   ],
   "hemlåne": [
-    "?"
+    "sxc"
   ],
   "hemlån": [
     "NN"
@@ -113545,7 +113554,7 @@
     "RB"
   ],
   "hen": [
-    "?",
+    "PRP",
     "NN"
   ],
   "hena": [
@@ -113843,16 +113852,16 @@
     "UH"
   ],
   "herre gud": [
-    "?"
+    "inm"
   ],
   "herrejävlar": [
     "UH"
   ],
   "herre jävlar": [
-    "?"
+    "inm"
   ],
   "herre jösse": [
-    "?"
+    "inm"
   ],
   "herrekipering": [
     "NN"
@@ -114069,7 +114078,7 @@
     "NN"
   ],
   "het på gröten": [
-    "?"
+    "avm"
   ],
   "hets": [
     "NN"
@@ -114537,10 +114546,10 @@
     "NN"
   ],
   "hipp hipp hurra": [
-    "?"
+    "inm"
   ],
   "hipp hurra": [
-    "?"
+    "inm"
   ],
   "hippie": [
     "NN"
@@ -115996,7 +116005,7 @@
     "NN"
   ],
   "hon": [
-    "?"
+    "PRP"
   ],
   "hona": [
     "NN"
@@ -116065,7 +116074,7 @@
     "NNP"
   ],
   "honorar": [
-    "?",
+    "sxc",
     "NN"
   ],
   "honoratiores": [
@@ -117318,7 +117327,7 @@
     "VB"
   ],
   "hugget som stucket": [
-    "?"
+    "avm"
   ],
   "huggjärn": [
     "NN"
@@ -117936,10 +117945,10 @@
     "RB"
   ],
   "hurdan": [
-    "?"
+    "PRP"
   ],
   "hurudan": [
-    "?"
+    "PRP"
   ],
   "hur det begav sig": [
     "RB"
@@ -118040,10 +118049,10 @@
     "RB"
   ],
   "hurusom": [
-    "?"
+    "sn"
   ],
   "huruvida": [
-    "?"
+    "sn"
   ],
   "hur än": [
     "RB"
@@ -119306,7 +119315,7 @@
     "NN"
   ],
   "hypotekslåne": [
-    "?"
+    "sxc"
   ],
   "hypotekslån": [
     "NN"
@@ -120728,7 +120737,7 @@
     "NN"
   ],
   "hälften vore nog": [
-    "?"
+    "inm"
   ],
   "hälgångare": [
     "NN"
@@ -121340,7 +121349,7 @@
     "JJ"
   ],
   "hängsel": [
-    "?"
+    "sxc"
   ],
   "hängsle": [
     "NN"
@@ -121650,10 +121659,10 @@
     "JJ"
   ],
   "här ligger det en hund begraven": [
-    "?"
+    "inm"
   ],
   "här ligger en hund begraven": [
-    "?"
+    "inm"
   ],
   "härlighet": [
     "NN"
@@ -122800,7 +122809,7 @@
     "NN"
   ],
   "högrestånds": [
-    "?"
+    "sxc"
   ],
   "högreståndsdam": [
     "NN"
@@ -122821,7 +122830,7 @@
     "NN"
   ],
   "högrisk": [
-    "?"
+    "mxc"
   ],
   "högriskbeteende": [
     "NN"
@@ -122965,7 +122974,7 @@
     "JJ"
   ],
   "högstdensamme": [
-    "?"
+    "PRP"
   ],
   "högsträvande": [
     "JJ"
@@ -123082,7 +123091,7 @@
     "NN"
   ],
   "högt skattad": [
-    "?"
+    "avm"
   ],
   "högtsträvande": [
     "JJ"
@@ -123091,7 +123100,7 @@
     "JJ"
   ],
   "högt uppsatt": [
-    "?"
+    "avm"
   ],
   "högtysk": [
     "JJ"
@@ -123248,16 +123257,16 @@
     "NN"
   ],
   "höjd över alla misstankar": [
-    "?"
+    "avm"
   ],
   "höjd över misstankar": [
-    "?"
+    "avm"
   ],
   "höjd över misstanke": [
-    "?"
+    "avm"
   ],
   "höjd över varje misstanke": [
-    "?"
+    "avm"
   ],
   "höjning": [
     "NN"
@@ -123411,7 +123420,7 @@
     "NN"
   ],
   "hör hit": [
-    "?"
+    "inm"
   ],
   "hörhåll": [
     "NN"
@@ -123456,10 +123465,10 @@
     "NN"
   ],
   "hör och häpna": [
-    "?"
+    "inm"
   ],
   "hör på": [
-    "?"
+    "inm"
   ],
   "hörsaga": [
     "NN"
@@ -123745,13 +123754,13 @@
     "RB"
   ],
   "i aktion": [
-    "?"
+    "avm"
   ],
   "i akt och mening att": [
-    "?"
+    "snm"
   ],
   "i akt och mening för att": [
-    "?"
+    "snm"
   ],
   "iaktta": [
     "VB"
@@ -123793,7 +123802,7 @@
     "RB"
   ],
   "i allas mun": [
-    "?"
+    "avm"
   ],
   "i alla tider": [
     "RB"
@@ -123835,7 +123844,7 @@
     "RB"
   ],
   "andrahands": [
-    "?"
+    "mxc"
   ],
   "i andra rummet": [
     "RB"
@@ -123853,7 +123862,7 @@
     "RB"
   ],
   "i anslutning till": [
-    "?"
+    "ppm"
   ],
   "i antågande": [
     "RB"
@@ -123865,22 +123874,22 @@
     "RB"
   ],
   "i avsikt att": [
-    "?"
+    "snm"
   ],
   "i avsikten att": [
-    "?"
+    "snm"
   ],
   "i avsikten för att": [
-    "?"
+    "snm"
   ],
   "i avsikt för att": [
-    "?"
+    "snm"
   ],
   "i avvaktan": [
-    "?"
+    "ppm"
   ],
   "i avvaktan på": [
-    "?"
+    "ppm"
   ],
   "IB": [
     "NNP"
@@ -123904,22 +123913,22 @@
     "RB"
   ],
   "i balans": [
-    "?"
+    "avm"
   ],
   "i bara mässingen": [
-    "?"
+    "avm"
   ],
   "IB-avslöjande": [
     "NN"
   ],
   "i begrepp": [
-    "?"
+    "avm"
   ],
   "i behåll": [
-    "?"
+    "avm"
   ],
   "i beredskap": [
-    "?"
+    "avm"
   ],
   "iberisk": [
     "JJ"
@@ -123928,13 +123937,13 @@
     "JJ"
   ],
   "i beråd": [
-    "?"
+    "avm"
   ],
   "i besittning": [
-    "?"
+    "avm"
   ],
   "i betraktande av": [
-    "?"
+    "ppm"
   ],
   "ibidem": [
     "RB"
@@ -123958,13 +123967,13 @@
     "RB"
   ],
   "i blodet": [
-    "?"
+    "avm"
   ],
   "i blom": [
     "RB"
   ],
   "i blåsväder": [
-    "?"
+    "avm"
   ],
   "i blöt": [
     "RB"
@@ -123982,7 +123991,7 @@
     "RB"
   ],
   "i brist på": [
-    "?"
+    "ppm"
   ],
   "i brist på bättre": [
     "RB"
@@ -124186,16 +124195,16 @@
     "RB"
   ],
   "i dag röd, i morgon död": [
-    "?"
+    "inm"
   ],
   "i dag röd, imorgon död": [
-    "?"
+    "inm"
   ],
   "idag röd, i morgon död": [
-    "?"
+    "inm"
   ],
   "idag röd, imorgon död": [
-    "?"
+    "inm"
   ],
   "i dagsläget": [
     "RB"
@@ -124325,13 +124334,13 @@
     "NN"
   ],
   "i delo": [
-    "?"
+    "avm"
   ],
   "idélära": [
     "NN"
   ],
   "idel öra": [
-    "?"
+    "avm"
   ],
   "idémässig": [
     "JJ"
@@ -124340,10 +124349,10 @@
     "NN"
   ],
   "i den mån att": [
-    "?"
+    "snm"
   ],
   "i den mån": [
-    "?"
+    "snm"
   ],
   "i denna världen": [
     "RB"
@@ -124437,7 +124446,7 @@
     "NN"
   ],
   "i desperat behov": [
-    "?"
+    "avm"
   ],
   "idéspruta": [
     "NN"
@@ -124449,13 +124458,13 @@
     "RB"
   ],
   "i det att": [
-    "?"
+    "snm"
   ],
   "i det avseendet": [
     "RB"
   ],
   "frilufts": [
-    "?"
+    "mxc"
   ],
   "i det fria": [
     "RB"
@@ -124560,7 +124569,7 @@
     "RB"
   ],
   "i djurhamn": [
-    "?"
+    "avm"
   ],
   "idka": [
     "VB"
@@ -124599,7 +124608,7 @@
     "NN"
   ],
   "i drift": [
-    "?"
+    "avm"
   ],
   "Idris": [
     "NNP"
@@ -124725,19 +124734,19 @@
     "JJ"
   ],
   "i dålig form": [
-    "?"
+    "avm"
   ],
   "i efterhand": [
     "RB"
   ],
   "i egen hög person": [
-    "?"
+    "avm"
   ],
   "i egen person": [
     "RB"
   ],
   "i egenskap av": [
-    "?"
+    "ppm"
   ],
   "i elfte timman": [
     "RB"
@@ -124749,13 +124758,13 @@
     "RB"
   ],
   "i en klass för sig": [
-    "?"
+    "avm"
   ],
   "i en klunk": [
     "RB"
   ],
   "i enlighet med": [
-    "?"
+    "ppm"
   ],
   "i en olycklig stund": [
     "RB"
@@ -124806,20 +124815,20 @@
     "RB"
   ],
   "ifall att": [
-    "?"
+    "snm"
   ],
   "ifall": [
-    "?"
+    "sn"
   ],
   "i farozonen": [
-    "?"
+    "avm"
   ],
   "i farten": [
     "RB",
-    "?"
+    "avm"
   ],
   "i fas": [
-    "?"
+    "avm"
   ],
   "ifatt": [
     "RB"
@@ -124831,7 +124840,7 @@
     "JJ"
   ],
   "i fin form": [
-    "?"
+    "avm"
   ],
   "ifjol": [
     "RB"
@@ -124855,7 +124864,7 @@
     "RB"
   ],
   "i form": [
-    "?"
+    "avm"
   ],
   "i forna tider": [
     "RB"
@@ -124906,10 +124915,10 @@
     "NN"
   ],
   "i fråga om": [
-    "?"
+    "ppm"
   ],
   "ifråga om": [
-    "?"
+    "ppm"
   ],
   "ifrågasätta": [
     "VB"
@@ -124924,7 +124933,7 @@
     "IN"
   ],
   "ifrån sig": [
-    "?"
+    "avm"
   ],
   "ifrånsprungen": [
     "JJ"
@@ -124939,7 +124948,7 @@
     "RB"
   ],
   "i full aktion": [
-    "?"
+    "avm"
   ],
   "i full fart": [
     "RB"
@@ -124948,19 +124957,19 @@
     "RB"
   ],
   "i full medvetenhet om": [
-    "?"
+    "ppm"
   ],
   "i full speed": [
     "RB"
   ],
   "i full storlek": [
-    "?"
+    "avm"
   ],
   "i fullständig grad": [
     "RB"
   ],
   "i full vetskap om": [
-    "?"
+    "ppm"
   ],
   "i fyllan och villan": [
     "RB"
@@ -124981,7 +124990,7 @@
     "JJ"
   ],
   "i färd": [
-    "?"
+    "avm"
   ],
   "i färskt minne": [
     "RB"
@@ -125020,10 +125029,10 @@
     "RB"
   ],
   "i förhållande till": [
-    "?"
+    "ppm"
   ],
   "i förklädnad": [
-    "?"
+    "avm"
   ],
   "i förköp": [
     "RB"
@@ -125038,7 +125047,7 @@
     "RB"
   ],
   "förstahands": [
-    "?"
+    "mxc"
   ],
   "i första hand": [
     "RB"
@@ -125068,7 +125077,7 @@
     "RB"
   ],
   "i gasen": [
-    "?"
+    "avm"
   ],
   "igel": [
     "NN"
@@ -125211,7 +125220,7 @@
     "NNP"
   ],
   "i gott behåll": [
-    "?"
+    "avm"
   ],
   "i grevens tid": [
     "RB"
@@ -125268,7 +125277,7 @@
     "RB"
   ],
   "i hamn": [
-    "?"
+    "avm"
   ],
   "i handeln": [
     "RB"
@@ -125301,15 +125310,15 @@
     "RB"
   ],
   "i helsike": [
-    "?",
+    "snm",
     "RB"
   ],
   "i helskotta": [
-    "?",
+    "snm",
     "RB"
   ],
   "i helvete": [
-    "?",
+    "snm",
     "RB"
   ],
   "i hemlighet": [
@@ -125361,22 +125370,22 @@
     "RB"
   ],
   "i hoppet om": [
-    "?"
+    "ppm"
   ],
   "i hopp om": [
-    "?"
+    "ppm"
   ],
   "i hopp att": [
-    "?"
+    "snm"
   ],
   "i hoppet att": [
-    "?"
+    "snm"
   ],
   "i hoppet om att": [
-    "?"
+    "snm"
   ],
   "i hopp om att": [
-    "?"
+    "snm"
   ],
   "i huvudsak": [
     "RB"
@@ -125400,7 +125409,7 @@
     "NN"
   ],
   "i händelse av": [
-    "?"
+    "ppm"
   ],
   "i händelsernas centrum": [
     "RB"
@@ -125415,7 +125424,7 @@
     "RB"
   ],
   "i högform": [
-    "?"
+    "avm"
   ],
   "i hög grad": [
     "RB"
@@ -125430,7 +125439,7 @@
     "RB"
   ],
   "i högsta hugg": [
-    "?"
+    "avm"
   ],
   "i högsätet": [
     "RB"
@@ -125469,13 +125478,13 @@
     "RB"
   ],
   "i jämbredd med": [
-    "?"
+    "ppm"
   ],
   "i jämnbredd med": [
-    "?"
+    "ppm"
   ],
   "i jämförelse med": [
-    "?"
+    "ppm"
   ],
   "i jämnbredd": [
     "RB"
@@ -125484,14 +125493,14 @@
     "RB"
   ],
   "i jämnhöjd med": [
-    "?"
+    "ppm"
   ],
   "i jämn takt": [
     "RB"
   ],
   "i jösse namn": [
     "RB",
-    "?"
+    "inm"
   ],
   "ikapp": [
     "RB"
@@ -125501,7 +125510,7 @@
   ],
   "kapp": [
     "NN",
-    "?"
+    "sxc"
   ],
   "ikat": [
     "NN"
@@ -125654,10 +125663,10 @@
     "RB"
   ],
   "i lagens namn": [
-    "?"
+    "inm"
   ],
   "i lag med": [
-    "?"
+    "ppm"
   ],
   "ila igenom": [
     "VB"
@@ -125714,7 +125723,7 @@
     "RB"
   ],
   "i likhet med": [
-    "?"
+    "ppm"
   ],
   "i liten grad": [
     "RB"
@@ -125735,7 +125744,7 @@
     "RB"
   ],
   "i livet": [
-    "?"
+    "avm"
   ],
   "i ljusan låga": [
     "RB"
@@ -125747,7 +125756,7 @@
     "RB"
   ],
   "illa däran": [
-    "?"
+    "avm"
   ],
   "illa kvickt": [
     "RB"
@@ -125985,7 +125994,7 @@
     "NN"
   ],
   "i lod": [
-    "?"
+    "avm"
   ],
   "ilsamtal": [
     "NN"
@@ -126015,7 +126024,7 @@
     "RB"
   ],
   "i luven": [
-    "?"
+    "avm"
   ],
   "Ilyas": [
     "NNP"
@@ -126040,7 +126049,7 @@
   ],
   "lönn": [
     "NN",
-    "?"
+    "sxc"
   ],
   "i lönndom": [
     "RB"
@@ -126055,7 +126064,7 @@
     "RB"
   ],
   "lösvikts": [
-    "?"
+    "sxc"
   ],
   "image": [
     "NN"
@@ -126152,7 +126161,7 @@
     "NN"
   ],
   "immaterial": [
-    "?"
+    "sxc"
   ],
   "immateriell": [
     "JJ"
@@ -126272,7 +126281,7 @@
     "RB"
   ],
   "i motsats till": [
-    "?"
+    "ppm"
   ],
   "i motsatt fall": [
     "RB"
@@ -126591,7 +126600,7 @@
     "RB"
   ],
   "i mån av": [
-    "?"
+    "ppm"
   ],
   "i måndags": [
     "RB"
@@ -126600,7 +126609,7 @@
     "RB"
   ],
   "i människohamn": [
-    "?"
+    "avm"
   ],
   "in": [
     "RB"
@@ -127253,7 +127262,7 @@
     "NN"
   ],
   "individual": [
-    "?"
+    "sxc"
   ],
   "individuell": [
     "JJ"
@@ -127502,7 +127511,7 @@
     "NN"
   ],
   "i nedan": [
-    "?"
+    "avm"
   ],
   "ineffektiv": [
     "JJ"
@@ -128129,7 +128138,7 @@
     "RB"
   ],
   "inga problem": [
-    "?"
+    "inm"
   ],
   "inge": [
     "VB"
@@ -128159,13 +128168,13 @@
     "NNP"
   ],
   "ingen": [
-    "?"
+    "PRP"
   ],
   "ingendera": [
-    "?"
+    "PRP"
   ],
   "ingen fara": [
-    "?"
+    "inm"
   ],
   "ingenium": [
     "NN"
@@ -128201,7 +128210,7 @@
     "RB"
   ],
   "ingen orsak": [
-    "?"
+    "inm"
   ],
   "ingen rast och ingen ro": [
     "NN"
@@ -128210,10 +128219,10 @@
     "NN"
   ],
   "ingen rök utan eld": [
-    "?"
+    "inm"
   ],
   "ingen skada skedd": [
-    "?"
+    "inm"
   ],
   "ingenstans": [
     "RB"
@@ -128222,7 +128231,7 @@
     "RB"
   ],
   "ingenting": [
-    "?"
+    "PRP"
   ],
   "ingenvart": [
     "RB"
@@ -128234,7 +128243,7 @@
     "NNP"
   ],
   "inget snack om saken": [
-    "?"
+    "inm"
   ],
   "inget vidare": [
     "RB"
@@ -128505,7 +128514,7 @@
     "IN"
   ],
   "in i": [
-    "?"
+    "ppm"
   ],
   "in i det sista": [
     "RB"
@@ -128780,10 +128789,10 @@
     "NN"
   ],
   "inkl.": [
-    "?"
+    "ppa"
   ],
   "inkl": [
-    "?"
+    "ppa"
   ],
   "inklusive": [
     "IN"
@@ -129391,7 +129400,7 @@
   "innan": [
     "RB",
     "IN",
-    "?"
+    "sn"
   ],
   "innan dess": [
     "RB"
@@ -129555,7 +129564,7 @@
     "JJ"
   ],
   "inner": [
-    "?",
+    "sxc",
     "NN"
   ],
   "innerbana": [
@@ -130643,7 +130652,7 @@
     "NN"
   ],
   "in spe": [
-    "?"
+    "avm"
   ],
   "inspektera": [
     "VB"
@@ -131247,7 +131256,7 @@
     "NN"
   ],
   "inteckningslåne": [
-    "?"
+    "sxc"
   ],
   "inteckningslån": [
     "NN"
@@ -131450,10 +131459,10 @@
     "NN"
   ],
   "icke oäven": [
-    "?"
+    "avm"
   ],
   "inte oäven": [
-    "?"
+    "avm"
   ],
   "inte på långa vägar": [
     "RB"
@@ -131533,10 +131542,10 @@
     "JJ"
   ],
   "interims": [
-    "?"
+    "sxc"
   ],
   "interim": [
-    "?"
+    "sxc"
   ],
   "interimsbestämmelse": [
     "NN"
@@ -131900,23 +131909,23 @@
     "VB"
   ],
   "inte småpotatis": [
-    "?"
+    "pnm"
   ],
   "intestatarv": [
     "NN"
   ],
   "intet": [
     "NN",
-    "?"
+    "PRP"
   ],
   "intetdera": [
-    "?"
+    "PRP"
   ],
   "inget nytt under solen": [
-    "?"
+    "inm"
   ],
   "intet nytt under solen": [
-    "?"
+    "inm"
   ],
   "intetsägande": [
     "JJ"
@@ -132816,7 +132825,7 @@
     "RB"
   ],
   "iofs": [
-    "?"
+    "aba"
   ],
   "i o f s": [
     "RB"
@@ -132831,16 +132840,16 @@
     "RB"
   ],
   "i och med": [
-    "?"
+    "ppm"
   ],
   "i ogjort ärende": [
     "RB"
   ],
   "i olag": [
-    "?"
+    "avm"
   ],
   "i omlopp": [
-    "?"
+    "avm"
   ],
   "i ondo": [
     "RB"
@@ -132855,7 +132864,7 @@
     "RB"
   ],
   "i ordning": [
-    "?"
+    "avm"
   ],
   "iordninggjord": [
     "JJ"
@@ -132870,7 +132879,7 @@
     "RB"
   ],
   "i otakt med": [
-    "?"
+    "ppm"
   ],
   "i otid": [
     "RB"
@@ -132894,7 +132903,7 @@
     "NN"
   ],
   "i paradisdräkt": [
-    "?"
+    "avm"
   ],
   "i parentes": [
     "RB"
@@ -132975,10 +132984,10 @@
     "RB"
   ],
   "i regeringsställning": [
-    "?"
+    "avm"
   ],
   "i relation till": [
-    "?"
+    "ppm"
   ],
   "Irem": [
     "NNP"
@@ -133080,7 +133089,7 @@
     "JJ"
   ],
   "i ropet": [
-    "?"
+    "avm"
   ],
   "irra": [
     "VB"
@@ -133215,7 +133224,7 @@
     "RB"
   ],
   "i rörelse": [
-    "?"
+    "avm"
   ],
   "is": [
     "NN"
@@ -133509,25 +133518,25 @@
     "NN"
   ],
   "i sin": [
-    "?"
+    "avm"
   ],
   "i deras helhet": [
-    "?"
+    "avm"
   ],
   "i dess helhet": [
-    "?"
+    "avm"
   ],
   "i sin helhet": [
-    "?"
+    "avm"
   ],
   "i sin linda": [
-    "?"
+    "avm"
   ],
   "i sinom tid": [
     "RB"
   ],
   "i sin ordning": [
-    "?"
+    "avm"
   ],
   "i sin prydno": [
     "RB"
@@ -133542,10 +133551,10 @@
     "RB"
   ],
   "sista-minuten": [
-    "?"
+    "mxc"
   ],
   "sistaminuten": [
-    "?"
+    "mxc"
   ],
   "i sista rummet": [
     "RB"
@@ -133560,10 +133569,10 @@
     "RB"
   ],
   "i sitt esse": [
-    "?"
+    "avm"
   ],
   "i sitt ässe": [
-    "?"
+    "avm"
   ],
   "i sitt rätta element": [
     "RB"
@@ -133572,7 +133581,7 @@
     "NN"
   ],
   "i sjunde himlen": [
-    "?"
+    "avm"
   ],
   "i själ och hjärta": [
     "RB"
@@ -133593,7 +133602,7 @@
     "NN"
   ],
   "i sken": [
-    "?"
+    "avm"
   ],
   "isklump": [
     "NN"
@@ -133629,7 +133638,7 @@
     "NN"
   ],
   "i slag": [
-    "?"
+    "avm"
   ],
   "islagd": [
     "JJ"
@@ -133699,7 +133708,7 @@
     "NN"
   ],
   "i slang": [
-    "?"
+    "avm"
   ],
   "islossning": [
     "NN"
@@ -133754,7 +133763,7 @@
   ],
   "smyg": [
     "NN",
-    "?"
+    "sxc"
   ],
   "i snabb följd": [
     "RB"
@@ -134022,7 +134031,7 @@
     "NN"
   ],
   "i strykklass": [
-    "?"
+    "avm"
   ],
   "i sträck": [
     "RB"
@@ -134031,16 +134040,16 @@
     "RB"
   ],
   "i styr": [
-    "?"
+    "avm"
   ],
   "i stå": [
-    "?"
+    "avm"
   ],
   "istånd": [
     "JJ"
   ],
   "i stånd": [
-    "?"
+    "avm"
   ],
   "iståndsätta": [
     "VB"
@@ -134064,10 +134073,10 @@
     "RB"
   ],
   "i stället för": [
-    "?"
+    "ppm"
   ],
   "istället för": [
-    "?"
+    "ppm"
   ],
   "i stöpsleven": [
     "RB"
@@ -134085,7 +134094,7 @@
     "NN"
   ],
   "i svang": [
-    "?"
+    "avm"
   ],
   "isvarning": [
     "NN"
@@ -134100,7 +134109,7 @@
     "RB"
   ],
   "i synk": [
-    "?"
+    "avm"
   ],
   "i all synnerhet": [
     "RB"
@@ -134140,7 +134149,7 @@
   ],
   "sär": [
     "JJ",
-    "?"
+    "sxc"
   ],
   "isättning": [
     "NN"
@@ -134155,7 +134164,7 @@
     "NN"
   ],
   "i tacksamhetsskuld": [
-    "?"
+    "avm"
   ],
   "i taget": [
     "RB"
@@ -134167,7 +134176,7 @@
     "RB"
   ],
   "i takt med": [
-    "?"
+    "ppm"
   ],
   "i takt med tiden": [
     "RB"
@@ -134275,7 +134284,7 @@
     "JJ"
   ],
   "i tur": [
-    "?"
+    "avm"
   ],
   "i tur och ordning": [
     "RB"
@@ -134308,7 +134317,7 @@
     "RB"
   ],
   "i upplösningstillstånd": [
-    "?"
+    "avm"
   ],
   "i ur och skur": [
     "RB"
@@ -134317,7 +134326,7 @@
     "RB"
   ],
   "i utbyte mot": [
-    "?"
+    "ppm"
   ],
   "i utsikt": [
     "RB"
@@ -134329,7 +134338,7 @@
     "RB"
   ],
   "i valet och kvalet": [
-    "?"
+    "avm"
   ],
   "Ivan": [
     "NNP"
@@ -134347,7 +134356,7 @@
     "RB"
   ],
   "i vardande": [
-    "?"
+    "avm"
   ],
   "i varierande grad": [
     "RB"
@@ -134371,7 +134380,7 @@
     "RB"
   ],
   "i var mans mun": [
-    "?"
+    "avm"
   ],
   "Ivarsson": [
     "NNP"
@@ -134452,7 +134461,7 @@
     "NN"
   ],
   "i vredesmod": [
-    "?"
+    "avm"
   ],
   "ivrig": [
     "JJ"
@@ -134464,7 +134473,7 @@
     "RB"
   ],
   "i våg": [
-    "?"
+    "avm"
   ],
   "i våra dagar": [
     "RB"
@@ -134494,7 +134503,7 @@
     "JJ"
   ],
   "i väntan på": [
-    "?"
+    "ppm"
   ],
   "i värsta fall": [
     "RB"
@@ -134527,7 +134536,7 @@
     "NNP"
   ],
   "i åminnelse": [
-    "?"
+    "avm"
   ],
   "i åratal": [
     "RB"
@@ -134687,14 +134696,14 @@
     "UH"
   ],
   "ja då": [
-    "?"
+    "inm"
   ],
   "Jaeger": [
     "NNP"
   ],
   "jag": [
     "NN",
-    "?"
+    "PRP"
   ],
   "jaga": [
     "VB"
@@ -134787,31 +134796,31 @@
     "UH"
   ],
   "ja ja": [
-    "?"
+    "inm"
   ],
   "jajamen": [
     "UH"
   ],
   "jaja men": [
-    "?"
+    "inm"
   ],
   "jajamän": [
     "UH"
   ],
   "jaja män": [
-    "?"
+    "inm"
   ],
   "jajamensan": [
     "UH"
   ],
   "jaja mensan": [
-    "?"
+    "inm"
   ],
   "jajamänsan": [
     "UH"
   ],
   "jaja mänsan": [
-    "?"
+    "inm"
   ],
   "jak": [
     "NN"
@@ -135244,7 +135253,7 @@
     "UH"
   ],
   "ja vars": [
-    "?"
+    "inm"
   ],
   "Javier": [
     "NNP"
@@ -135253,7 +135262,7 @@
     "UH"
   ],
   "ja visst": [
-    "?"
+    "inm"
   ],
   "javäl": [
     "UH"
@@ -135941,13 +135950,13 @@
     "UH"
   ],
   "jojo men": [
-    "?"
+    "inm"
   ],
   "jojomän": [
     "UH"
   ],
   "jojo män": [
-    "?"
+    "inm"
   ],
   "jo-jo-väder": [
     "NN"
@@ -136859,10 +136868,10 @@
     "NN"
   ],
   "ju dess": [
-    "?"
+    "knm"
   ],
   "ju desto": [
-    "?"
+    "knm"
   ],
   "judetyska": [
     "NN"
@@ -136931,13 +136940,13 @@
     "NN"
   ],
   "ju ju": [
-    "?"
+    "knm"
   ],
   "jukebox": [
     "NN"
   ],
   "jule": [
-    "?"
+    "sxc"
   ],
   "jul": [
     "NN"
@@ -137415,7 +137424,7 @@
     "RB"
   ],
   "just det": [
-    "?"
+    "inm"
   ],
   "justera": [
     "VB"
@@ -137451,7 +137460,7 @@
     "NN"
   ],
   "justitie": [
-    "?"
+    "sxc"
   ],
   "justitieborgmästare": [
     "NN"
@@ -137664,7 +137673,7 @@
     "RB"
   ],
   "jfr": [
-    "?"
+    "vba"
   ],
   "jämföra": [
     "VB"
@@ -138461,7 +138470,7 @@
   "pang": [
     "NN",
     "UH",
-    "?"
+    "sxc"
   ],
   "jättebubbla": [
     "NN"
@@ -138584,7 +138593,7 @@
     "RB"
   ],
   "jättemånga": [
-    "?"
+    "PRP"
   ],
   "jättenervös": [
     "JJ"
@@ -138728,11 +138737,11 @@
     "NN"
   ],
   "djävel": [
-    "?",
+    "nnh",
     "NN"
   ],
   "jävel": [
-    "?",
+    "nnh",
     "NN"
   ],
   "djävelskap": [
@@ -140370,7 +140379,7 @@
     "NN"
   ],
   "kallakrigs": [
-    "?"
+    "mxc"
   ],
   "kallt krig": [
     "NN"
@@ -141829,7 +141838,7 @@
     "NN"
   ],
   "kapillar": [
-    "?"
+    "sxc"
   ],
   "kapillärkraft": [
     "NN"
@@ -143833,7 +143842,7 @@
     "NN"
   ],
   "kasual": [
-    "?"
+    "sxc"
   ],
   "kasuell": [
     "JJ"
@@ -144492,13 +144501,13 @@
     "NN"
   ],
   "kav lugn": [
-    "?"
+    "avm"
   ],
   "kavring": [
     "NN"
   ],
   "kav stilla": [
-    "?"
+    "avm"
   ],
   "kaxe": [
     "NN"
@@ -146222,7 +146231,7 @@
     "NN"
   ],
   "klar som dagen": [
-    "?"
+    "avm"
   ],
   "klarspråk": [
     "NN"
@@ -146243,7 +146252,7 @@
     "NN"
   ],
   "klart slut": [
-    "?"
+    "inm"
   ],
   "klartänkt": [
     "JJ"
@@ -146592,7 +146601,7 @@
     "NN"
   ],
   "klent utrustad": [
-    "?"
+    "avm"
   ],
   "klenvuxen": [
     "JJ"
@@ -150953,7 +150962,7 @@
     "NN"
   ],
   "kombi": [
-    "?",
+    "sxc",
     "NN"
   ],
   "kombibil": [
@@ -151418,10 +151427,10 @@
     "NN"
   ],
   "kommer dag, kommer råd": [
-    "?"
+    "inm"
   ],
   "kommer tid, kommer råd": [
-    "?"
+    "inm"
   ],
   "komminister": [
     "NN"
@@ -153412,7 +153421,7 @@
     "NN"
   ],
   "konst": [
-    "?",
+    "sxc",
     "NN"
   ],
   "konstakademi": [
@@ -155983,7 +155992,7 @@
     "NN"
   ],
   "kors i taket": [
-    "?"
+    "inm"
   ],
   "korskota": [
     "NN"
@@ -156598,10 +156607,10 @@
     "VB"
   ],
   "kosta vad det kosta vill": [
-    "?"
+    "inm"
   ],
   "kosta vad det vill": [
-    "?"
+    "inm"
   ],
   "kostbar": [
     "JJ"
@@ -158169,7 +158178,7 @@
     "NN"
   ],
   "kriminal": [
-    "?"
+    "sxc"
   ],
   "kriminell": [
     "JJ"
@@ -161198,13 +161207,13 @@
     "NN"
   ],
   "konunga": [
-    "?"
+    "sxc"
   ],
   "konung": [
     "NN"
   ],
   "kunga": [
-    "?"
+    "sxc"
   ],
   "kung": [
     "NN"
@@ -161336,10 +161345,10 @@
     "JJ"
   ],
   "Kungl.": [
-    "?"
+    "ava"
   ],
   "Kungl": [
-    "?"
+    "ava"
   ],
   "kunglig": [
     "JJ"
@@ -162024,7 +162033,7 @@
     "NN"
   ],
   "kusten är klar": [
-    "?"
+    "inm"
   ],
   "kustfart": [
     "NN"
@@ -164715,7 +164724,7 @@
     "VB"
   ],
   "kära hjärtanes": [
-    "?"
+    "inm"
   ],
   "kärande": [
     "NN"
@@ -164733,10 +164742,10 @@
     "VB"
   ],
   "kära nån": [
-    "?"
+    "inm"
   ],
   "kära nån då": [
-    "?"
+    "inm"
   ],
   "käraste": [
     "NN"
@@ -165985,7 +165994,7 @@
     "JJ"
   ],
   "kör i vind": [
-    "?"
+    "inm"
   ],
   "körkarl": [
     "NN"
@@ -166099,7 +166108,7 @@
     "NN"
   ],
   "kör till": [
-    "?"
+    "inm"
   ],
   "körvel": [
     "NN"
@@ -166661,7 +166670,7 @@
     "JJ"
   ],
   "lagd på hyllan": [
-    "?"
+    "avm"
   ],
   "lagenlig": [
     "JJ"
@@ -167326,7 +167335,7 @@
     "NN"
   ],
   "lant": [
-    "?"
+    "sxc"
   ],
   "landa": [
     "VB"
@@ -169712,7 +169721,7 @@
     "NN"
   ],
   "lekmanna": [
-    "?"
+    "sxc"
   ],
   "lekman": [
     "NN"
@@ -171067,10 +171076,10 @@
     "RB"
   ],
   "lika barn leka bäst": [
-    "?"
+    "inm"
   ],
   "lika barn leker bäst": [
-    "?"
+    "inm"
   ],
   "likabehandling": [
     "NN"
@@ -171275,7 +171284,7 @@
     "RB"
   ],
   "liksom": [
-    "?",
+    "sn",
     "RB"
   ],
   "likspänning": [
@@ -172032,7 +172041,7 @@
     "NN"
   ],
   "linear": [
-    "?"
+    "sxc"
   ],
   "lineär": [
     "JJ"
@@ -172357,33 +172366,33 @@
     "NN"
   ],
   "lite": [
-    "?",
+    "PRP",
     "RB"
   ],
   "litet": [
-    "?",
+    "PRP",
     "RB"
   ],
   "lite av varje": [
-    "?"
+    "pnm"
   ],
   "litet av varje": [
-    "?"
+    "pnm"
   ],
   "lite grand": [
-    "?",
+    "pnm",
     "RB"
   ],
   "lite grann": [
-    "?",
+    "pnm",
     "RB"
   ],
   "litet grand": [
-    "?",
+    "pnm",
     "RB"
   ],
   "litet grann": [
-    "?",
+    "pnm",
     "RB"
   ],
   "lite hur som haver": [
@@ -172409,10 +172418,10 @@
   ],
   "mikro": [
     "NN",
-    "?"
+    "sxc"
   ],
   "mini": [
-    "?"
+    "sxc"
   ],
   "litenhet": [
     "NN"
@@ -172932,7 +172941,7 @@
     "JJ"
   ],
   "livs levande": [
-    "?"
+    "avm"
   ],
   "livslinje": [
     "NN"
@@ -175418,7 +175427,7 @@
     "VB"
   ],
   "lugna gatan": [
-    "?"
+    "avm"
   ],
   "lugnande": [
     "NN",
@@ -175446,10 +175455,10 @@
     "NN"
   ],
   "lugn i stormen": [
-    "?"
+    "inm"
   ],
   "lugn som en filbunke": [
-    "?"
+    "avm"
   ],
   "lugnvatten": [
     "NN"
@@ -176309,7 +176318,7 @@
     "VB"
   ],
   "lycka till": [
-    "?"
+    "inm"
   ],
   "lycklig": [
     "JJ"
@@ -176327,10 +176336,10 @@
     "NN"
   ],
   "lycklig resa": [
-    "?"
+    "inm"
   ],
   "lyckligt lottad": [
-    "?"
+    "avm"
   ],
   "lyckligtvis": [
     "RB"
@@ -177304,7 +177313,7 @@
     "JJ"
   ],
   "låne": [
-    "?"
+    "sxc"
   ],
   "lån": [
     "NN"
@@ -177496,7 +177505,7 @@
     "NN"
   ],
   "lång i synen": [
-    "?"
+    "avm"
   ],
   "långivande": [
     "JJ"
@@ -177622,7 +177631,7 @@
     "NN"
   ],
   "långsam i vändningarna": [
-    "?"
+    "avm"
   ],
   "långsida": [
     "NN"
@@ -177727,7 +177736,7 @@
     "JJ"
   ],
   "långt gången": [
-    "?"
+    "avm"
   ],
   "långtidsarbetslös": [
     "JJ"
@@ -178042,10 +178051,10 @@
     "VB"
   ],
   "låt gå": [
-    "?"
+    "inm"
   ],
   "låtgå": [
-    "?"
+    "mxc"
   ],
   "låtgåpolitik": [
     "NN"
@@ -178614,7 +178623,7 @@
     "JJ"
   ],
   "lägre stående": [
-    "?"
+    "avm"
   ],
   "lägre tjänsteman": [
     "NN"
@@ -179858,7 +179867,7 @@
     "JJ"
   ],
   "lätt fånget, lätt förgånget": [
-    "?"
+    "inm"
   ],
   "lättfärdig": [
     "JJ"
@@ -180014,7 +180023,7 @@
     "JJ"
   ],
   "lätt på foten": [
-    "?"
+    "avm"
   ],
   "lättpåverkad": [
     "JJ"
@@ -180104,7 +180113,7 @@
     "NN"
   ],
   "lätt som en plätt": [
-    "?"
+    "avm"
   ],
   "lättspackel": [
     "NN"
@@ -180986,13 +180995,13 @@
     "NN"
   ],
   "lös i konturerna": [
-    "?"
+    "avm"
   ],
   "lös i köttet": [
-    "?"
+    "avm"
   ],
   "lös i magen": [
-    "?"
+    "avm"
   ],
   "löskekarl": [
     "NN"
@@ -182189,7 +182198,7 @@
     "NN"
   ],
   "makt går före rätt": [
-    "?"
+    "inm"
   ],
   "makthavande": [
     "JJ"
@@ -182763,7 +182772,7 @@
   ],
   "man": [
     "NN",
-    "?"
+    "PRP"
   ],
   "mana": [
     "NN",
@@ -184263,7 +184272,7 @@
     "NN"
   ],
   "marsch pannkaka": [
-    "?"
+    "inm"
   ],
   "marschriktning": [
     "NN"
@@ -184880,7 +184889,7 @@
     "JJ"
   ],
   "massmedia": [
-    "?"
+    "sxc"
   ],
   "massmedium": [
     "NN"
@@ -185810,7 +185819,7 @@
     "JJ"
   ],
   "maximi": [
-    "?"
+    "sxc"
   ],
   "maximera": [
     "VB"
@@ -186029,14 +186038,14 @@
     "RB"
   ],
   "medan": [
-    "?"
+    "sn"
   ],
   "medans": [
-    "?"
+    "sn"
   ],
   "mens": [
     "NN",
-    "?"
+    "sn"
   ],
   "med andan i behåll": [
     "RB"
@@ -186069,22 +186078,22 @@
     "RB"
   ],
   "m.a.p.": [
-    "?"
+    "ppa"
   ],
   "map": [
-    "?"
+    "ppa"
   ],
   "med avseende på": [
-    "?"
+    "ppm"
   ],
   "med avsikt": [
     "RB"
   ],
   "i beaktande av": [
-    "?"
+    "ppm"
   ],
   "med beaktande av": [
-    "?"
+    "ppm"
   ],
   "medbedömare": [
     "NN"
@@ -186108,7 +186117,7 @@
     "NN"
   ],
   "med bett": [
-    "?"
+    "avm"
   ],
   "med blida ögon": [
     "RB"
@@ -186237,7 +186246,7 @@
     "RB"
   ],
   "medel": [
-    "?",
+    "sxc",
     "JJ",
     "NN"
   ],
@@ -186524,10 +186533,10 @@
     "RB"
   ],
   "m.fl.": [
-    "?"
+    "aba"
   ],
   "mfl": [
-    "?"
+    "aba"
   ],
   "med flit": [
     "RB"
@@ -186539,7 +186548,7 @@
     "RB"
   ],
   "Med folket för fosterlandet": [
-    "?"
+    "inm"
   ],
   "med friska tag": [
     "RB"
@@ -186578,7 +186587,7 @@
     "RB"
   ],
   "med förbehåll för": [
-    "?"
+    "ppm"
   ],
   "med förbundna ögon": [
     "RB"
@@ -186674,10 +186683,10 @@
     "RB"
   ],
   "med hänseende till": [
-    "?"
+    "ppm"
   ],
   "med hänsyn till": [
-    "?"
+    "ppm"
   ],
   "med hästlängder": [
     "RB"
@@ -186953,7 +186962,7 @@
     "NN"
   ],
   "media": [
-    "?"
+    "sxc"
   ],
   "mediuppgift": [
     "NN"
@@ -186962,7 +186971,7 @@
     "RB"
   ],
   "med klös": [
-    "?"
+    "avm"
   ],
   "med knapp nöd": [
     "RB"
@@ -187094,20 +187103,20 @@
     "RB"
   ],
   "m.m.": [
-    "?"
+    "aba"
   ],
   "mm": [
     "NN",
-    "?"
+    "aba"
   ],
   "m m": [
     "RB"
   ],
   "med mindre att": [
-    "?"
+    "snm"
   ],
   "med mindre än att": [
-    "?"
+    "snm"
   ],
   "medmänniska": [
     "NN"
@@ -187155,7 +187164,7 @@
     "NN"
   ],
   "med på noterna": [
-    "?"
+    "avm"
   ],
   "medregent": [
     "NN"
@@ -187182,19 +187191,19 @@
     "RB"
   ],
   "med sikte på": [
-    "?"
+    "ppm"
   ],
   "med siktet inställt på": [
-    "?"
+    "ppm"
   ],
   "med siktet på": [
-    "?"
+    "ppm"
   ],
   "med silkesvantar": [
     "RB"
   ],
   "med sin tid": [
-    "?"
+    "avm"
   ],
   "med sitt eget hjärteblod": [
     "RB"
@@ -187227,7 +187236,7 @@
     "NN"
   ],
   "med sting": [
-    "?"
+    "avm"
   ],
   "med storm": [
     "RB"
@@ -187245,7 +187254,7 @@
     "RB"
   ],
   "med stöd av": [
-    "?"
+    "ppm"
   ],
   "med stövlarna på": [
     "RB"
@@ -187278,16 +187287,16 @@
     "NN"
   ],
   "med tanke på": [
-    "?"
+    "ppm"
   ],
   "med tiden": [
     "RB"
   ],
   "med tillbehör": [
-    "?"
+    "avm"
   ],
   "med tillhjälp av": [
-    "?"
+    "ppm"
   ],
   "med till visshet gränsande sannolikhet": [
     "RB"
@@ -187311,10 +187320,10 @@
     "NN"
   ],
   "med undantag av": [
-    "?"
+    "ppm"
   ],
   "med undantag för": [
-    "?"
+    "ppm"
   ],
   "medurs": [
     "RB"
@@ -188120,7 +188129,7 @@
   ],
   "men": [
     "NN",
-    "?"
+    "kn"
   ],
   "mena": [
     "VB"
@@ -188370,7 +188379,7 @@
     "RB"
   ],
   "mera död än levande": [
-    "?"
+    "avm"
   ],
   "merarbete": [
     "NN"
@@ -188407,7 +188416,7 @@
     "NNP"
   ],
   "mer eller mindre": [
-    "?",
+    "pnm",
     "RB"
   ],
   "merendels": [
@@ -188624,7 +188633,7 @@
     "NN"
   ],
   "meta": [
-    "?",
+    "sxc",
     "VB"
   ],
   "metabolisk": [
@@ -189628,7 +189637,7 @@
     "JJ"
   ],
   "milda makter": [
-    "?"
+    "inm"
   ],
   "mildhet": [
     "NN"
@@ -190328,12 +190337,16 @@
     "NN"
   ],
   "min": [
+    "PP$",
+    "PRP",
     "NN"
   ],
   "Mina": [
     "NNP"
   ],
   "mina": [
+    "PP$",
+    "PRP",
     "NN"
   ],
   "minaret": [
@@ -190376,7 +190389,7 @@
     "NN"
   ],
   "mindre vetande": [
-    "?"
+    "avm"
   ],
   "Minea": [
     "NNP"
@@ -190574,7 +190587,7 @@
     "JJ"
   ],
   "minimi": [
-    "?"
+    "sxc"
   ],
   "minimalistisk": [
     "JJ"
@@ -190646,7 +190659,7 @@
     "NN"
   ],
   "ministerial": [
-    "?"
+    "sxc"
   ],
   "ministeriell": [
     "JJ"
@@ -190974,7 +190987,7 @@
     "IN"
   ],
   "-": [
-    "?"
+    "ppa"
   ],
   "minusgrad": [
     "NN"
@@ -191754,11 +191767,13 @@
     "NNP"
   ],
   "mitt": [
+    "PP$",
+    "PRP",
     "NN",
     "RB"
   ],
   "mitten": [
-    "?"
+    "sxc"
   ],
   "mittbena": [
     "NN"
@@ -191775,7 +191790,7 @@
   ],
   "mitt emellan": [
     "RB",
-    "?"
+    "ppm"
   ],
   "mittemot": [
     "IN"
@@ -191826,13 +191841,13 @@
     "NN"
   ],
   "mitt i": [
-    "?"
+    "ppm"
   ],
   "mittibland": [
     "IN"
   ],
   "mitt ibland": [
-    "?"
+    "ppm"
   ],
   "mitt i prick": [
     "RB"
@@ -191859,7 +191874,7 @@
     "RB"
   ],
   "mitt uppe i": [
-    "?"
+    "ppm"
   ],
   "mittåt": [
     "UH"
@@ -194095,10 +194110,10 @@
     "NN"
   ],
   "morgonstund har guld i mund": [
-    "?"
+    "inm"
   ],
   "morgonstund har guld i mun": [
-    "?"
+    "inm"
   ],
   "morgonsvalka": [
     "NN"
@@ -194586,7 +194601,7 @@
     "VB"
   ],
   "mot bakgrund av": [
-    "?"
+    "ppm"
   ],
   "motbeskyllning": [
     "NN"
@@ -195794,25 +195809,25 @@
     "JJ"
   ],
   "mums filibaba": [
-    "?"
+    "avm"
   ],
   "mumsfilibabba": [
     "JJ"
   ],
   "mums filibabba": [
-    "?"
+    "avm"
   ],
   "mumsfillibaba": [
     "JJ"
   ],
   "mums fillibaba": [
-    "?"
+    "avm"
   ],
   "mumsfillibabba": [
     "JJ"
   ],
   "mums fillibabba": [
-    "?"
+    "avm"
   ],
   "mumsig": [
     "JJ"
@@ -196835,29 +196850,29 @@
     "NN"
   ],
   "mycken": [
-    "?"
+    "PRP"
   ],
   "myckenhet": [
     "NN"
   ],
   "mega": [
-    "?"
+    "sxc"
   ],
   "mycket": [
     "RB"
   ],
   "skit": [
     "NN",
-    "?"
+    "sxc"
   ],
   "mycket att hänga i julgranen": [
-    "?"
+    "pnm"
   ],
   "mycket att hänga i julgran": [
-    "?"
+    "pnm"
   ],
   "mycket att skriva hem om": [
-    "?"
+    "pnm"
   ],
   "mycket snack och lite verkstad": [
     "NN"
@@ -197817,13 +197832,13 @@
     "NN"
   ],
   "många bäckar små gör en stor å": [
-    "?"
+    "inm"
   ],
   "mångahanda": [
     "JJ"
   ],
   "många herrans": [
-    "?"
+    "pnm"
   ],
   "många järn i elden": [
     "NN"
@@ -197871,13 +197886,13 @@
     "NN"
   ],
   "multi": [
-    "?"
+    "sxc"
   ],
   "mången": [
-    "?"
+    "PRP"
   ],
   "mång": [
-    "?"
+    "sxc"
   ],
   "mångenstädes": [
     "RB"
@@ -198726,7 +198741,7 @@
     "NN"
   ],
   "märkt av döden": [
-    "?"
+    "avm"
   ],
   "märk väl": [
     "VB"
@@ -199696,7 +199711,7 @@
     "NNP"
   ],
   "nada": [
-    "?"
+    "PRP"
   ],
   "Nadal": [
     "NNP"
@@ -199834,7 +199849,7 @@
     "RB"
   ],
   "naggande god": [
-    "?"
+    "avm"
   ],
   "naggning": [
     "NN"
@@ -200209,7 +200224,7 @@
     "NN"
   ],
   "nano": [
-    "?"
+    "sxc"
   ],
   "nanoteknologi": [
     "NN"
@@ -200797,7 +200812,7 @@
     "NN"
   ],
   "national": [
-    "?"
+    "sxc"
   ],
   "nationell": [
     "JJ"
@@ -201007,7 +201022,7 @@
     "NN"
   ],
   "natti, natti": [
-    "?"
+    "inm"
   ],
   "nattiné": [
     "NN"
@@ -201851,7 +201866,7 @@
     "JJ"
   ],
   "nazi": [
-    "?"
+    "sxc"
   ],
   "nazistofficer": [
     "NN"
@@ -201919,7 +201934,7 @@
     "JJ"
   ],
   "nedan nämnd": [
-    "?"
+    "avm"
   ],
   "nedanstående": [
     "JJ"
@@ -202183,13 +202198,13 @@
     "IN"
   ],
   "nedförs": [
-    "?"
+    "sxc"
   ],
   "nerför": [
     "IN"
   ],
   "nerförs": [
-    "?"
+    "sxc"
   ],
   "nedföring": [
     "NN"
@@ -203371,7 +203386,7 @@
     "NNP"
   ],
   "nemas problemas": [
-    "?"
+    "inm"
   ],
   "nematod": [
     "NN"
@@ -203546,7 +203561,7 @@
     "IN"
   ],
   "nere för räkning": [
-    "?"
+    "avm"
   ],
   "nereid": [
     "NN"
@@ -204173,11 +204188,11 @@
     "NN"
   ],
   "ni": [
-    "?"
+    "PRP"
   ],
   "Ni": [
     "NN",
-    "?"
+    "PRP"
   ],
   "nia": [
     "VB",
@@ -205219,7 +205234,7 @@
     "NN"
   ],
   "noll": [
-    "?",
+    "PRP",
     "NN",
     "CD"
   ],
@@ -206307,7 +206322,7 @@
     "JJ"
   ],
   "NB": [
-    "?"
+    "aba"
   ],
   "nota bene": [
     "RB"
@@ -206840,7 +206855,7 @@
     "NNP"
   ],
   "nu smäller det": [
-    "?"
+    "inm"
   ],
   "nuspråklig": [
     "JJ"
@@ -206906,19 +206921,19 @@
     "JJ"
   ],
   "då är det kokta fläsket stekt": [
-    "?"
+    "inm"
   ],
   "nu är det kokta fläsket stekt": [
-    "?"
+    "inm"
   ],
   "sen är det kokta fläsket stekt": [
-    "?"
+    "inm"
   ],
   "nxn": [
     "NN"
   ],
   "neo": [
-    "?"
+    "sxc"
   ],
   "ny": [
     "NN",
@@ -208291,10 +208306,10 @@
     "NN"
   ],
   "någon": [
-    "?"
+    "PRP"
   ],
   "någondera": [
-    "?"
+    "PRP"
   ],
   "någon enda gång": [
     "RB"
@@ -208342,10 +208357,10 @@
     "RB"
   ],
   "någonting": [
-    "?"
+    "PRP"
   ],
   "nånting": [
-    "?"
+    "PRP"
   ],
   "någonvart": [
     "RB"
@@ -208360,40 +208375,40 @@
     "RB"
   ],
   "något att hänga i julgranen": [
-    "?"
+    "pnm"
   ],
   "något att hänga i julgran": [
-    "?"
+    "pnm"
   ],
   "nåt att hänga i julgranen": [
-    "?"
+    "pnm"
   ],
   "nåt att hänga i julgran": [
-    "?"
+    "pnm"
   ],
   "något att skriva hem om": [
-    "?"
+    "pnm"
   ],
   "nåt att skriva hem om": [
-    "?"
+    "pnm"
   ],
   "något ditåt": [
-    "?"
+    "pnm"
   ],
   "något i hästväg": [
-    "?"
+    "pnm"
   ],
   "nåt i hästväg": [
-    "?"
+    "pnm"
   ],
   "något lite": [
-    "?"
+    "pnm"
   ],
   "något litet": [
-    "?"
+    "pnm"
   ],
   "något lurt": [
-    "?"
+    "pnm"
   ],
   "någotsånär": [
     "RB"
@@ -208616,7 +208631,7 @@
     "NN"
   ],
   "när": [
-    "?",
+    "sxc",
     "RB"
   ],
   "nära": [
@@ -208696,7 +208711,7 @@
     "NN"
   ],
   "närhelst": [
-    "?"
+    "sn"
   ],
   "närhet": [
     "NN"
@@ -208861,7 +208876,7 @@
     "VB"
   ],
   "närmast sörjande": [
-    "?"
+    "avm"
   ],
   "närmevärde": [
     "NN"
@@ -209434,7 +209449,7 @@
     "NN"
   ],
   "nöden har ingen lag": [
-    "?"
+    "inm"
   ],
   "nödfall": [
     "NN"
@@ -209860,7 +209875,7 @@
     "NN"
   ],
   "o": [
-    "?",
+    "kna",
     "UH",
     "NN"
   ],
@@ -210222,7 +210237,7 @@
     "JJ"
   ],
   "oaktat": [
-    "?",
+    "sn",
     "IN"
   ],
   "oaktiverad": [
@@ -210625,7 +210640,7 @@
     "NN"
   ],
   "oansett": [
-    "?",
+    "sn",
     "IN"
   ],
   "oanskaffad": [
@@ -212948,7 +212963,7 @@
     "NN"
   ],
   "obligationslåne": [
-    "?"
+    "sxc"
   ],
   "obligationslån": [
     "NN"
@@ -213432,10 +213447,10 @@
     "VB"
   ],
   "obs.": [
-    "?"
+    "vba"
   ],
   "obs": [
-    "?"
+    "vba"
   ],
   "observerande": [
     "NN"
@@ -213784,10 +213799,10 @@
     "NN"
   ],
   "och": [
-    "?"
+    "kn"
   ],
   "&": [
-    "?"
+    "kna"
   ],
   "ochargerad": [
     "JJ"
@@ -213817,10 +213832,10 @@
     "RB"
   ],
   "o.d.": [
-    "?"
+    "aba"
   ],
   "od": [
-    "?"
+    "aba"
   ],
   "o d": [
     "RB"
@@ -213829,7 +213844,7 @@
     "RB"
   ],
   "o.dyl.": [
-    "?"
+    "aba"
   ],
   "o dyl": [
     "RB"
@@ -213850,10 +213865,10 @@
     "NN"
   ],
   "och hör sen": [
-    "?"
+    "inm"
   ],
   "å hör sen": [
-    "?"
+    "inm"
   ],
   "ochiffrerad": [
     "JJ"
@@ -213895,10 +213910,10 @@
     "RB"
   ],
   "o.s.v.": [
-    "?"
+    "aba"
   ],
   "osv": [
-    "?"
+    "aba"
   ],
   "o s v": [
     "RB"
@@ -221320,7 +221335,7 @@
     "UH"
   ],
   "oj då": [
-    "?"
+    "inm"
   ],
   "ojoddlad": [
     "JJ"
@@ -223674,7 +223689,7 @@
     "NN"
   ],
   "ole dole doff": [
-    "?"
+    "inm"
   ],
   "oledsagad": [
     "JJ"
@@ -224753,7 +224768,7 @@
   "om": [
     "NN",
     "RB",
-    "?",
+    "sn",
     "IN"
   ],
   "omadrasserad": [
@@ -226286,7 +226301,7 @@
     "JJ"
   ],
   "om sams": [
-    "?"
+    "avm"
   ],
   "omseende": [
     "NN"
@@ -226551,7 +226566,7 @@
     "RB"
   ],
   "om så vore att": [
-    "?"
+    "snm"
   ],
   "omsänder": [
     "RB"
@@ -226831,10 +226846,10 @@
     "NN"
   ],
   "ombyte förnöjer": [
-    "?"
+    "inm"
   ],
   "omväxling förnöjer": [
-    "?"
+    "inm"
   ],
   "omyllad": [
     "JJ"
@@ -234854,7 +234869,7 @@
     "NN"
   ],
   "otack är världens lön": [
-    "?"
+    "inm"
   ],
   "otadlig": [
     "JJ"
@@ -236566,7 +236581,7 @@
     "JJ"
   ],
   "ovan nämnd": [
-    "?"
+    "avm"
   ],
   "ovanom": [
     "IN"
@@ -236627,7 +236642,7 @@
     "NNP"
   ],
   "o ve": [
-    "?"
+    "inm"
   ],
   "ovederhäftig": [
     "JJ"
@@ -238521,7 +238536,7 @@
     "NN"
   ],
   "pantlåne": [
-    "?"
+    "sxc"
   ],
   "pantlån": [
     "NN"
@@ -239798,7 +239813,7 @@
     "NN"
   ],
   "participial": [
-    "?"
+    "sxc"
   ],
   "participiell": [
     "JJ"
@@ -239810,7 +239825,7 @@
     "NN"
   ],
   "partial": [
-    "?"
+    "sxc"
   ],
   "partiell": [
     "JJ"
@@ -241410,7 +241425,7 @@
     "NN"
   ],
   "pengarna eller livet": [
-    "?"
+    "inm"
   ],
   "pengar på kistbotten": [
     "NN"
@@ -241530,7 +241545,7 @@
     "NN"
   ],
   "penninglåne": [
-    "?"
+    "sxc"
   ],
   "penninglån": [
     "NN"
@@ -241911,7 +241926,7 @@
     "IN"
   ],
   "/": [
-    "?"
+    "ppa"
   ],
   "Per Albin": [
     "NNP"
@@ -241938,7 +241953,7 @@
     "NN"
   ],
   "perceptual": [
-    "?"
+    "sxc"
   ],
   "perceptuell": [
     "JJ"
@@ -244375,7 +244390,7 @@
     "NN"
   ],
   "pk": [
-    "?"
+    "ava"
   ],
   "placebo": [
     "NN"
@@ -245235,7 +245250,7 @@
     "NN"
   ],
   "Plikten framför allt": [
-    "?"
+    "inm"
   ],
   "pliktenlig": [
     "JJ"
@@ -245628,7 +245643,7 @@
     "NN"
   ],
   "+": [
-    "?"
+    "ppa"
   ],
   "plus": [
     "NN",
@@ -246196,7 +246211,7 @@
     "NNP"
   ],
   "polar": [
-    "?",
+    "sxc",
     "JJ"
   ],
   "polardag": [
@@ -246650,7 +246665,7 @@
     "JJ"
   ],
   "politiskt korrekt": [
-    "?"
+    "avm"
   ],
   "politruk": [
     "NN"
@@ -248740,7 +248755,7 @@
     "JJ"
   ],
   "premielåne": [
-    "?"
+    "sxc"
   ],
   "premielån": [
     "NN"
@@ -248857,7 +248872,7 @@
     "NN"
   ],
   "prepositional": [
-    "?"
+    "sxc"
   ],
   "prepositionell": [
     "JJ"
@@ -249510,7 +249525,7 @@
     "NN"
   ],
   "primärlåne": [
-    "?"
+    "sxc"
   ],
   "primärlån": [
     "NN"
@@ -249996,7 +250011,7 @@
     "NN"
   ],
   "privatlåne": [
-    "?"
+    "sxc"
   ],
   "privatlån": [
     "NN"
@@ -251089,7 +251104,7 @@
     "NN"
   ],
   "pronominal": [
-    "?",
+    "sxc",
     "JJ"
   ],
   "pronominell": [
@@ -251811,7 +251826,7 @@
     "NN"
   ],
   "provinsial": [
-    "?"
+    "sxc"
   ],
   "provinsiell": [
     "JJ"
@@ -252542,7 +252557,7 @@
     "JJ"
   ],
   "psyk": [
-    "?"
+    "sxc"
   ],
   "psykisk": [
     "JJ"
@@ -253229,7 +253244,7 @@
     "JJ"
   ],
   "punkt": [
-    "?",
+    "sxc",
     "UH",
     "NN"
   ],
@@ -253300,7 +253315,7 @@
     "NN"
   ],
   "punkt och slut": [
-    "?"
+    "inm"
   ],
   "punktskatt": [
     "NN"
@@ -253315,7 +253330,7 @@
     "NN"
   ],
   "punktual": [
-    "?"
+    "sxc"
   ],
   "punktuell": [
     "JJ"
@@ -253854,7 +253869,7 @@
     "RB"
   ],
   "på alerten": [
-    "?"
+    "avm"
   ],
   "på alla fyra": [
     "RB"
@@ -253869,7 +253884,7 @@
     "RB"
   ],
   "på allas läppar": [
-    "?"
+    "avm"
   ],
   "på alla sätt och vis": [
     "RB"
@@ -253911,16 +253926,16 @@
     "NN"
   ],
   "på banan": [
-    "?"
+    "avm"
   ],
   "på banan igen": [
-    "?"
+    "avm"
   ],
   "tillbaka på banan": [
-    "?"
+    "avm"
   ],
   "tillbaka på banan igen": [
-    "?"
+    "avm"
   ],
   "på bar backe": [
     "RB"
@@ -253932,7 +253947,7 @@
     "RB"
   ],
   "på bettet": [
-    "?"
+    "avm"
   ],
   "påbjuda": [
     "VB"
@@ -253959,10 +253974,10 @@
     "NN"
   ],
   "på bättringsväg": [
-    "?"
+    "avm"
   ],
   "på bättringsvägen": [
-    "?"
+    "avm"
   ],
   "påbörda": [
     "VB"
@@ -253977,7 +253992,7 @@
     "NN"
   ],
   "på dekis": [
-    "?"
+    "avm"
   ],
   "på deltid": [
     "RB"
@@ -253995,7 +254010,7 @@
     "RB"
   ],
   "på det att": [
-    "?"
+    "snm"
   ],
   "på det hala": [
     "RB"
@@ -254010,7 +254025,7 @@
     "RB"
   ],
   "på det viset": [
-    "?",
+    "avm",
     "RB"
   ],
   "på direkten": [
@@ -254044,7 +254059,7 @@
     "NN"
   ],
   "på efterkälken": [
-    "?"
+    "avm"
   ],
   "på egen hand": [
     "RB"
@@ -254077,7 +254092,7 @@
     "JJ"
   ],
   "på fallrepet": [
-    "?"
+    "avm"
   ],
   "påfart": [
     "NN"
@@ -254182,10 +254197,10 @@
     "RB"
   ],
   "på g": [
-    "?"
+    "avm"
   ],
   "på G": [
-    "?"
+    "avm"
   ],
   "påg": [
     "NN"
@@ -254197,7 +254212,7 @@
     "RB"
   ],
   "på god fot": [
-    "?"
+    "avm"
   ],
   "på god väg": [
     "RB"
@@ -254212,19 +254227,19 @@
     "RB"
   ],
   "p.g.a.": [
-    "?"
+    "ppa"
   ],
   "pga": [
-    "?"
+    "ppa"
   ],
   "på grund av": [
-    "?"
+    "ppm"
   ],
   "på gränsen": [
     "RB"
   ],
   "på grön kvist": [
-    "?"
+    "avm"
   ],
   "pågå": [
     "VB"
@@ -254234,7 +254249,7 @@
     "JJ"
   ],
   "på gång": [
-    "?"
+    "avm"
   ],
   "påhakning": [
     "NN"
@@ -254255,7 +254270,7 @@
     "NN"
   ],
   "på helspänn": [
-    "?"
+    "avm"
   ],
   "på heltid": [
     "RB"
@@ -254288,7 +254303,7 @@
     "NN"
   ],
   "på hugget": [
-    "?"
+    "avm"
   ],
   "på huk": [
     "RB"
@@ -254321,7 +254336,7 @@
     "RB"
   ],
   "på högspänn": [
-    "?"
+    "avm"
   ],
   "i högvarv": [
     "RB"
@@ -254339,7 +254354,7 @@
     "RB"
   ],
   "på ingång": [
-    "?"
+    "avm"
   ],
   "på inkomstsidan": [
     "RB"
@@ -254366,10 +254381,10 @@
     "NN"
   ],
   "på kanelen": [
-    "?"
+    "avm"
   ],
   "på kant": [
-    "?"
+    "avm"
   ],
   "påklistring": [
     "NN"
@@ -254393,7 +254408,7 @@
     "NN"
   ],
   "på kneken": [
-    "?"
+    "avm"
   ],
   "påknäppning": [
     "NN"
@@ -254420,7 +254435,7 @@
     "RB"
   ],
   "på krigsstigen": [
-    "?"
+    "avm"
   ],
   "på kryss": [
     "RB"
@@ -254504,10 +254519,10 @@
     "NN"
   ],
   "på liv eller död": [
-    "?"
+    "avm"
   ],
   "på liv och död": [
-    "?"
+    "avm"
   ],
   "pålkran": [
     "NN"
@@ -254537,19 +254552,19 @@
     "RB"
   ],
   "på lur": [
-    "?"
+    "avm"
   ],
   "på lut": [
-    "?"
+    "avm"
   ],
   "pålverk": [
     "NN"
   ],
   "på lyran": [
-    "?"
+    "avm"
   ],
   "på lyset": [
-    "?"
+    "avm"
   ],
   "på lågkant": [
     "RB"
@@ -254621,10 +254636,10 @@
     "RB"
   ],
   "på min ära": [
-    "?"
+    "inm"
   ],
   "på modet": [
-    "?"
+    "avm"
   ],
   "på måfå": [
     "RB"
@@ -254696,7 +254711,7 @@
     "RB"
   ],
   "på obestånd": [
-    "?"
+    "avm"
   ],
   "på omvägar": [
     "RB"
@@ -254720,10 +254735,10 @@
     "NN"
   ],
   "på pickalurven": [
-    "?"
+    "avm"
   ],
   "på pickaluven": [
-    "?"
+    "avm"
   ],
   "på pin kiv": [
     "RB"
@@ -254756,7 +254771,7 @@
     "RB"
   ],
   "på resande fot": [
-    "?"
+    "avm"
   ],
   "på riktigt": [
     "RB"
@@ -254813,7 +254828,7 @@
     "RB"
   ],
   "på samma våglängd": [
-    "?"
+    "avm"
   ],
   "påse": [
     "NN"
@@ -254846,13 +254861,13 @@
     "RB"
   ],
   "på sin spets": [
-    "?"
+    "avm"
   ],
   "på sin tid": [
     "RB"
   ],
   "på sin vakt": [
-    "?"
+    "avm"
   ],
   "på sista tiden": [
     "RB"
@@ -254994,7 +255009,7 @@
     "RB"
   ],
   "på smällen": [
-    "?"
+    "avm"
   ],
   "på sned": [
     "RB"
@@ -255003,10 +255018,10 @@
     "RB"
   ],
   "på sniskan": [
-    "?"
+    "avm"
   ],
   "på snusen": [
-    "?"
+    "avm"
   ],
   "På spaning efter den tid som flytt": [
     "NNP"
@@ -255015,13 +255030,13 @@
     "NN"
   ],
   "på språng": [
-    "?"
+    "avm"
   ],
   "på spåren": [
-    "?"
+    "avm"
   ],
   "på spåret": [
-    "?"
+    "avm"
   ],
   "påspädande": [
     "NN"
@@ -255075,7 +255090,7 @@
     "RB"
   ],
   "på styva linan": [
-    "?"
+    "avm"
   ],
   "påstå": [
     "VB"
@@ -255156,13 +255171,13 @@
     "NN"
   ],
   "på tal om": [
-    "?"
+    "ppm"
   ],
   "påtande": [
     "NN"
   ],
   "på tapeten": [
-    "?"
+    "avm"
   ],
   "påta sig": [
     "VB"
@@ -255177,13 +255192,13 @@
     "RB"
   ],
   "på tjocken": [
-    "?"
+    "avm"
   ],
   "på tok": [
     "RB"
   ],
   "på topp": [
-    "?"
+    "avm"
   ],
   "på tork": [
     "RB"
@@ -255231,7 +255246,7 @@
     "RB"
   ],
   "på tur": [
-    "?"
+    "avm"
   ],
   "påtvinga": [
     "VB"
@@ -255258,7 +255273,7 @@
     "JJ"
   ],
   "på upphällningen": [
-    "?"
+    "avm"
   ],
   "på utanskriften": [
     "RB"
@@ -255321,10 +255336,10 @@
     "NN"
   ],
   "på vid gavel": [
-    "?"
+    "avm"
   ],
   "på vift": [
-    "?"
+    "avm"
   ],
   "på vilket vänster": [
     "RB"
@@ -255366,13 +255381,13 @@
     "NN"
   ],
   "på väg": [
-    "?"
+    "avm"
   ],
   "på vägnar": [
-    "?"
+    "ppm"
   ],
   "å vägnar": [
-    "?"
+    "ppm"
   ],
   "på vänskaplig fot": [
     "RB"
@@ -255417,7 +255432,7 @@
     "RB"
   ],
   "på örat": [
-    "?"
+    "avm"
   ],
   "på öret": [
     "RB"
@@ -256758,10 +256773,10 @@
     "RB"
   ],
   "rakt ingenting": [
-    "?"
+    "pnm"
   ],
   "rakt inget": [
-    "?"
+    "pnm"
   ],
   "rakt på sak": [
     "RB"
@@ -257044,7 +257059,7 @@
     "NN"
   ],
   "rangen stridig": [
-    "?"
+    "avm"
   ],
   "ranger": [
     "NN"
@@ -257262,7 +257277,7 @@
     "NN"
   ],
   "rapp i käften": [
-    "?"
+    "avm"
   ],
   "rappkäftad": [
     "JJ"
@@ -257485,7 +257500,7 @@
     "NN"
   ],
   "rask i roten": [
-    "?"
+    "avm"
   ],
   "raskravaller": [
     "NN"
@@ -257672,7 +257687,7 @@
     "NN"
   ],
   "rational": [
-    "?"
+    "sxc"
   ],
   "rationell": [
     "JJ"
@@ -259663,7 +259678,7 @@
     "JJ"
   ],
   "rekordmånga": [
-    "?"
+    "PRP"
   ],
   "rekordmässig": [
     "JJ"
@@ -260226,7 +260241,7 @@
     "VB"
   ],
   "rena löjan": [
-    "?"
+    "avm"
   ],
   "renande": [
     "NN"
@@ -261463,13 +261478,13 @@
   "respektive": [
     "NN",
     "JJ",
-    "?"
+    "kn"
   ],
   "resp.": [
-    "?"
+    "kna"
   ],
   "resp": [
-    "?"
+    "kna"
   ],
   "respektlös": [
     "JJ"
@@ -264687,7 +264702,7 @@
     "NN"
   ],
   "rot": [
-    "?",
+    "sxc",
     "NN"
   ],
   "rota": [
@@ -264997,7 +265012,7 @@
     "NN"
   ],
   "rubb och stubb": [
-    "?"
+    "pnm"
   ],
   "rubel": [
     "NN"
@@ -265671,7 +265686,7 @@
     "NN"
   ],
   "rund under fötterna": [
-    "?"
+    "avm"
   ],
   "rundvandring": [
     "NN"
@@ -265768,7 +265783,7 @@
   ],
   "runt om": [
     "RB",
-    "?"
+    "ppm"
   ],
   "runtomkring": [
     "RB",
@@ -265776,7 +265791,7 @@
   ],
   "runt omkring": [
     "RB",
-    "?"
+    "ppm"
   ],
   "runt tal": [
     "NN"
@@ -267362,7 +267377,7 @@
     "NN"
   ],
   "rädde sig den som kan": [
-    "?"
+    "inm"
   ],
   "räddhet": [
     "NN"
@@ -268318,7 +268333,7 @@
     "NNP"
   ],
   "rödakors": [
-    "?"
+    "mxc"
   ],
   "rödaktig": [
     "JJ"
@@ -268327,7 +268342,7 @@
     "NN"
   ],
   "röd av ilska": [
-    "?"
+    "avm"
   ],
   "rödbena": [
     "NN"
@@ -268506,7 +268521,7 @@
     "NN"
   ],
   "röd- och vitrutig": [
-    "?"
+    "avm"
   ],
   "rödockra": [
     "NN"
@@ -268542,7 +268557,7 @@
     "NN"
   ],
   "rödspotta": [
-    "?",
+    "sxc",
     "NN"
   ],
   "rödspov": [
@@ -268558,7 +268573,7 @@
     "NN"
   ],
   "rödspätta": [
-    "?",
+    "sxc",
     "NN"
   ],
   "rödstjärt": [
@@ -269918,7 +269933,7 @@
     "NN"
   ],
   "sagt och gjort": [
-    "?"
+    "inm"
   ],
   "Sahara": [
     "NNP"
@@ -270011,7 +270026,7 @@
     "NN"
   ],
   "saken är biff": [
-    "?"
+    "inm"
   ],
   "saker": [
     "JJ"
@@ -270023,13 +270038,13 @@
     "NN"
   ],
   "saker och ting": [
-    "?"
+    "pnm"
   ],
   "saker och tings": [
-    "?"
+    "pnm"
   ],
   "sakers och tings": [
-    "?"
+    "pnm"
   ],
   "sakfel": [
     "NN"
@@ -270218,7 +270233,7 @@
     "VB"
   ],
   "sakta i backarna": [
-    "?"
+    "inm"
   ],
   "sakta men säkert": [
     "RB"
@@ -271076,7 +271091,7 @@
     "JJ"
   ],
   "socio": [
-    "?"
+    "sxc"
   ],
   "samhällelighet": [
     "NN"
@@ -271574,7 +271589,7 @@
     "NN"
   ],
   "samma": [
-    "?"
+    "PRP"
   ],
   "sammaledes": [
     "RB"
@@ -271592,7 +271607,7 @@
     "RB"
   ],
   "sam": [
-    "?"
+    "sxc"
   ],
   "sammanavla": [
     "VB"
@@ -272266,7 +272281,7 @@
     "NN"
   ],
   "samt": [
-    "?"
+    "kn"
   ],
   "samtal": [
     "NN"
@@ -272371,7 +272386,7 @@
     "NN"
   ],
   "samtlig": [
-    "?"
+    "PRP"
   ],
   "samt och synnerligen": [
     "RB"
@@ -274158,10 +274173,10 @@
     "JJ"
   ],
   "schack matt": [
-    "?"
+    "avm"
   ],
   "schack och matt": [
-    "?"
+    "avm"
   ],
   "schackmönster": [
     "NN"
@@ -274878,7 +274893,7 @@
     "NN"
   ],
   "second hand": [
-    "?"
+    "avm"
   ],
   "sed": [
     "NN"
@@ -274888,14 +274903,14 @@
   ],
   "sedan": [
     "IN",
-    "?",
+    "sn",
     "NN",
     "RB"
   ],
   "sen": [
     "JJ",
     "IN",
-    "?",
+    "sn",
     "RB"
   ],
   "sedan barnsben": [
@@ -275554,6 +275569,7 @@
     "VB"
   ],
   "sej": [
+    "PRP",
     "NN"
   ],
   "sejd": [
@@ -275761,7 +275777,7 @@
     "NN"
   ],
   "sekular": [
-    "?"
+    "sxc"
   ],
   "sekulär": [
     "JJ"
@@ -276332,12 +276348,12 @@
     "JJ"
   ],
   "ä.": [
-    "?"
+    "ava"
   ],
   "ä": [
     "UH",
     "NN",
-    "?"
+    "ava"
   ],
   "seniorat": [
     "NN"
@@ -277050,7 +277066,7 @@
     "NN"
   ],
   "Sesam, öppna dig": [
-    "?"
+    "inm"
   ],
   "se sig för": [
     "VB"
@@ -277531,7 +277547,7 @@
     "NN"
   ],
   "sexual": [
-    "?"
+    "sxc"
   ],
   "sexuell": [
     "JJ"
@@ -277765,10 +277781,10 @@
     "NN"
   ],
   "shit pommes frites": [
-    "?"
+    "inm"
   ],
   "shit pommesfrites": [
-    "?"
+    "inm"
   ],
   "Shiva": [
     "NNP"
@@ -278417,7 +278433,7 @@
     "NN"
   ],
   "sig": [
-    "?"
+    "PRP"
   ],
   "sigel": [
     "NN"
@@ -279521,6 +279537,8 @@
     "NN"
   ],
   "sina": [
+    "PP$",
+    "PRP",
     "VB"
   ],
   "sinande": [
@@ -279973,7 +279991,7 @@
     "NN"
   ],
   "sista skälvande": [
-    "?"
+    "avm"
   ],
   "sista vila": [
     "NN"
@@ -280808,7 +280826,7 @@
     "NN"
   ],
   "sju resor värre": [
-    "?"
+    "avm"
   ],
   "sjurygg": [
     "NN"
@@ -281085,13 +281103,13 @@
     "NN"
   ],
   "själv": [
-    "?"
+    "PRP"
   ],
   "själva": [
-    "?"
+    "PRP"
   ],
   "självaste": [
-    "?"
+    "PRP"
   ],
   "självaktning": [
     "NN"
@@ -282932,7 +282950,7 @@
     "NN"
   ],
   "skapt som en nors": [
-    "?"
+    "avm"
   ],
   "skara": [
     "NN"
@@ -283556,7 +283574,7 @@
     "NN"
   ],
   "kvasi": [
-    "?"
+    "sxc"
   ],
   "skenbar": [
     "JJ"
@@ -283673,19 +283691,19 @@
     "UH"
   ],
   "skepp ohoj": [
-    "?"
+    "inm"
   ],
   "skeppåhoj": [
     "UH"
   ],
   "skepp åhoj": [
-    "?"
+    "inm"
   ],
   "skeppåhåj": [
     "UH"
   ],
   "skepp åhåj": [
-    "?"
+    "inm"
   ],
   "skeppsapotek": [
     "NN"
@@ -284472,7 +284490,7 @@
     "JJ"
   ],
   "skit samma": [
-    "?"
+    "avm"
   ],
   "skitsnack": [
     "NN"
@@ -285550,10 +285568,10 @@
     "NN"
   ],
   "skomakare, bli vid din läst": [
-    "?"
+    "inm"
   ],
   "skomakare, bliv vid din läst": [
-    "?"
+    "inm"
   ],
   "skomakarrealism": [
     "NN"
@@ -286356,7 +286374,7 @@
     "NN"
   ],
   "skriven i stjärnorna": [
-    "?"
+    "avm"
   ],
   "skriveri": [
     "NN"
@@ -288818,7 +288836,7 @@
     "NN"
   ],
   "skämt åsido": [
-    "?"
+    "inm"
   ],
   "skända": [
     "VB"
@@ -290449,7 +290467,7 @@
     "NN"
   ],
   "slik": [
-    "?"
+    "PRP"
   ],
   "slikta": [
     "VB"
@@ -290712,10 +290730,10 @@
     "NN"
   ],
   "slit-och-släng": [
-    "?"
+    "mxc"
   ],
   "slitochsläng": [
-    "?"
+    "mxc"
   ],
   "slit och släng": [
     "NN"
@@ -291184,7 +291202,7 @@
     "NN"
   ],
   "slutet gott, allting gott": [
-    "?"
+    "inm"
   ],
   "slutfall": [
     "NN"
@@ -291759,7 +291777,7 @@
     "NN"
   ],
   "släkten är värst": [
-    "?"
+    "inm"
   ],
   "släktfejd": [
     "NN"
@@ -292995,7 +293013,7 @@
     "NN"
   ],
   "smockan hänger i luften": [
-    "?"
+    "inm"
   ],
   "smocka till": [
     "VB"
@@ -293588,7 +293606,7 @@
     "NN"
   ],
   "småhuslåne": [
-    "?"
+    "sxc"
   ],
   "småhuslån": [
     "NN"
@@ -293916,7 +293934,7 @@
     "NN"
   ],
   "smått och gott": [
-    "?"
+    "pnm"
   ],
   "småtvätt": [
     "NN"
@@ -294605,10 +294623,10 @@
     "NN"
   ],
   "snabb som tanken": [
-    "?"
+    "avm"
   ],
   "snabb som ögat": [
-    "?"
+    "avm"
   ],
   "snabbspola": [
     "VB"
@@ -295221,7 +295239,7 @@
     "NN"
   ],
   "Snille och smak": [
-    "?"
+    "inm"
   ],
   "snilleprov": [
     "NN"
@@ -295248,7 +295266,7 @@
     "NN"
   ],
   "snipp snapp snorum": [
-    "?"
+    "inm"
   ],
   "snirkel": [
     "NN"
@@ -296707,7 +296725,7 @@
     "NN"
   ],
   "sockenbo": [
-    "?"
+    "nnh"
   ],
   "sockenbud": [
     "NN"
@@ -297707,7 +297725,7 @@
   ],
   "som": [
     "RB",
-    "?"
+    "sn"
   ],
   "som agnar för vinden": [
     "RB"
@@ -297740,7 +297758,7 @@
     "RB"
   ],
   "som bortblåst": [
-    "?"
+    "avm"
   ],
   "sombrero": [
     "NN"
@@ -297851,7 +297869,7 @@
     "RB"
   ],
   "som en öppen bok": [
-    "?"
+    "avm"
   ],
   "Somerset": [
     "NNP"
@@ -297884,10 +297902,10 @@
     "RB"
   ],
   "som fallen från skyarna": [
-    "?"
+    "avm"
   ],
   "som fallen från skyn": [
-    "?"
+    "avm"
   ],
   "som fan läser bibeln": [
     "RB"
@@ -297938,19 +297956,19 @@
     "RB"
   ],
   "somlig": [
-    "?"
+    "PRP"
   ],
   "som man bäddar får man ligga": [
-    "?"
+    "inm"
   ],
   "som man ropar i skogen får man svar": [
-    "?"
+    "inm"
   ],
   "som man ropar i skogen så får man svar": [
-    "?"
+    "inm"
   ],
   "som man sår får man skörda": [
-    "?"
+    "inm"
   ],
   "sommar": [
     "NN"
@@ -298222,7 +298240,7 @@
     "NN"
   ],
   "som natt och dag": [
-    "?"
+    "avm"
   ],
   "som oftast": [
     "RB"
@@ -298273,7 +298291,7 @@
     "RB"
   ],
   "somt": [
-    "?"
+    "PRP"
   ],
   "som två bär": [
     "RB"
@@ -299444,7 +299462,7 @@
     "NN"
   ],
   "sparlåne": [
-    "?"
+    "sxc"
   ],
   "sparlån": [
     "NN"
@@ -299597,7 +299615,7 @@
     "NN"
   ],
   "special": [
-    "?",
+    "sxc",
     "NN"
   ],
   "specialanpassad": [
@@ -300009,7 +300027,7 @@
     "JJ"
   ],
   "spela roll": [
-    "?",
+    "inm",
     "VB"
   ],
   "spela spratt": [
@@ -300479,7 +300497,7 @@
     "JJ"
   ],
   "spik nykter": [
-    "?"
+    "avm"
   ],
   "spiknykterhet": [
     "NN"
@@ -301076,13 +301094,13 @@
     "JJ"
   ],
   "splitter ny": [
-    "?"
+    "avm"
   ],
   "splittny": [
     "JJ"
   ],
   "splitt ny": [
-    "?"
+    "avm"
   ],
   "splittersår": [
     "NN"
@@ -302518,10 +302536,10 @@
     "NN"
   ],
   "spårlöst borta": [
-    "?"
+    "avm"
   ],
   "spårlöst försvunnen": [
-    "?"
+    "avm"
   ],
   "spårmejsel": [
     "NN"
@@ -302834,7 +302852,7 @@
     "NN"
   ],
   "spätt": [
-    "?"
+    "sxc"
   ],
   "spä ut": [
     "VB"
@@ -303087,7 +303105,7 @@
     "JJ"
   ],
   "stadd vid kassa": [
-    "?"
+    "avm"
   ],
   "stadfästa": [
     "VB"
@@ -304563,7 +304581,7 @@
     "JJ"
   ],
   "stel av fasa": [
-    "?"
+    "avm"
   ],
   "stelbent": [
     "JJ"
@@ -306286,7 +306304,7 @@
     "JJ"
   ],
   "stol": [
-    "?",
+    "sxc",
     "NN"
   ],
   "stola": [
@@ -306479,7 +306497,7 @@
   ],
   "st": [
     "NN",
-    "?"
+    "ava"
   ],
   "stor": [
     "NN",
@@ -306711,7 +306729,7 @@
     "NN"
   ],
   "stor i orden, liten på jorden": [
-    "?"
+    "inm"
   ],
   "stork": [
     "NN"
@@ -308324,7 +308342,7 @@
     "JJ"
   ],
   "strunt samma": [
-    "?"
+    "avm"
   ],
   "struntsumma": [
     "NN"
@@ -309248,7 +309266,7 @@
     "NN"
   ],
   "studielåne": [
-    "?"
+    "sxc"
   ],
   "studielån": [
     "NN"
@@ -309614,7 +309632,7 @@
     "NN"
   ],
   "stycke": [
-    "?",
+    "sxc",
     "NN"
   ],
   "styckebruk": [
@@ -309921,7 +309939,7 @@
     "NN"
   ],
   "styv i korken": [
-    "?"
+    "avm"
   ],
   "styvmamma": [
     "NN"
@@ -310120,7 +310138,7 @@
     "NNP"
   ],
   "Stålmans": [
-    "?"
+    "sxc"
   ],
   "stålpenna": [
     "NN"
@@ -311232,7 +311250,7 @@
     "NN"
   ],
   "stört omöjlig": [
-    "?"
+    "avm"
   ],
   "störtregn": [
     "NN"
@@ -312722,13 +312740,13 @@
     "NNP"
   ],
   "surt förvärvad": [
-    "?"
+    "avm"
   ],
   "sura, sa räven om rönnbären": [
-    "?"
+    "inm"
   ],
   "surt, sa räven om rönnbären": [
-    "?"
+    "inm"
   ],
   "surögd": [
     "JJ"
@@ -313203,7 +313221,7 @@
     "NN"
   ],
   "svaret skyldig": [
-    "?"
+    "avm"
   ],
   "svaromål": [
     "NN"
@@ -313260,7 +313278,7 @@
     "NN"
   ],
   "svartabörs": [
-    "?"
+    "mxc"
   ],
   "svart börs": [
     "NN"
@@ -313293,7 +313311,7 @@
     "NN"
   ],
   "svart i synen": [
-    "?"
+    "avm"
   ],
   "svartjobb": [
     "NN"
@@ -314234,7 +314252,7 @@
     "NN"
   ],
   "svinhugg går igen": [
-    "?"
+    "inm"
   ],
   "svinhus": [
     "NN"
@@ -316338,7 +316356,8 @@
   ],
   "så": [
     "UH",
-    "?",
+    "PRP",
+    "kn",
     "NN",
     "VB",
     "RB"
@@ -316362,13 +316381,13 @@
     "NN"
   ],
   "sån": [
-    "?"
+    "PRP"
   ],
   "sådan herre, sådan dräng": [
-    "?"
+    "inm"
   ],
   "sådan herre, sådan hund": [
-    "?"
+    "inm"
   ],
   "sådd": [
     "NN"
@@ -316383,7 +316402,7 @@
     "RB"
   ],
   "så det så": [
-    "?"
+    "inm"
   ],
   "så det bara visslade om det": [
     "RB"
@@ -316408,20 +316427,20 @@
     "RB"
   ],
   "så där": [
-    "?",
+    "avm",
     "RB"
   ],
   "sådärja": [
     "UH"
   ],
   "så där ja": [
-    "?"
+    "inm"
   ],
   "sående": [
     "NN"
   ],
   "såframt": [
-    "?"
+    "sn"
   ],
   "såg": [
     "NN"
@@ -316532,16 +316551,16 @@
     "UH"
   ],
   "s.k.": [
-    "?"
+    "ava"
   ],
   "sk": [
-    "?"
+    "ava"
   ],
   "s k": [
-    "?"
+    "avm"
   ],
   "så kallad": [
-    "?"
+    "avm"
   ],
   "såklart": [
     "RB"
@@ -316676,10 +316695,10 @@
     "RB"
   ],
   "så när som på": [
-    "?"
+    "ppm"
   ],
   "sånär som på": [
-    "?"
+    "ppm"
   ],
   "såpa": [
     "VB",
@@ -316801,7 +316820,7 @@
     "RB"
   ],
   "såsom": [
-    "?"
+    "sn"
   ],
   "såt": [
     "NN",
@@ -316829,10 +316848,10 @@
     "VB"
   ],
   "såvida": [
-    "?"
+    "sn"
   ],
   "såvitt": [
-    "?",
+    "sn",
     "RB"
   ],
   "så vitt": [
@@ -316842,7 +316861,7 @@
     "RB"
   ],
   "såväl som": [
-    "?"
+    "knm"
   ],
   "så värst": [
     "RB"
@@ -318817,7 +318836,7 @@
     "VB"
   ],
   "tacka för det": [
-    "?"
+    "inm"
   ],
   "tacka ja": [
     "VB"
@@ -318829,13 +318848,13 @@
     "VB"
   ],
   "tackar som frågar": [
-    "?"
+    "inm"
   ],
   "tackel": [
     "NN"
   ],
   "tack för senast": [
-    "?"
+    "inm"
   ],
   "tackjärn": [
     "NN"
@@ -318871,7 +318890,7 @@
     "UH"
   ],
   "tack och lov": [
-    "?"
+    "inm"
   ],
   "tackoffer": [
     "NN"
@@ -318892,7 +318911,7 @@
     "NN"
   ],
   "tack skyldig": [
-    "?"
+    "avm"
   ],
   "tacksägelse": [
     "NN"
@@ -318910,7 +318929,7 @@
     "NN"
   ],
   "tack vare": [
-    "?"
+    "ppm"
   ],
   "taco": [
     "NN"
@@ -321031,7 +321050,7 @@
     "VB"
   ],
   "tappad bakom en vagn": [
-    "?"
+    "avm"
   ],
   "tappa fattningen": [
     "VB"
@@ -322416,7 +322435,7 @@
     "NN"
   ],
   "tele": [
-    "?"
+    "sxc"
   ],
   "telefonist": [
     "NN"
@@ -323434,7 +323453,7 @@
     "NN"
   ],
   "territorial": [
-    "?"
+    "sxc"
   ],
   "territoriell": [
     "JJ"
@@ -324243,7 +324262,7 @@
     "UH"
   ],
   "tick, tack": [
-    "?"
+    "inm"
   ],
   "tid": [
     "NN"
@@ -324357,7 +324376,7 @@
     "NN"
   ],
   "tidlåne": [
-    "?"
+    "sxc"
   ],
   "tidlån": [
     "NN"
@@ -324835,7 +324854,7 @@
     "RB"
   ],
   "tid är pengar": [
-    "?"
+    "inm"
   ],
   "tie-break": [
     "NN"
@@ -325088,7 +325107,7 @@
     "RB"
   ],
   "till besvär": [
-    "?"
+    "avm"
   ],
   "tillblanda": [
     "VB"
@@ -325235,10 +325254,10 @@
     "NN"
   ],
   "t.ex.": [
-    "?"
+    "aba"
   ],
   "tex": [
-    "?"
+    "aba"
   ],
   "t ex": [
     "RB"
@@ -325292,7 +325311,7 @@
     "JJ"
   ],
   "till freds": [
-    "?"
+    "avm"
   ],
   "tillfredsställa": [
     "VB"
@@ -325425,7 +325444,7 @@
     "NN"
   ],
   "till förmån för": [
-    "?"
+    "ppm"
   ],
   "tillförne": [
     "RB"
@@ -325452,7 +325471,7 @@
     "NN"
   ],
   "till gagn": [
-    "?"
+    "avm"
   ],
   "tillge": [
     "VB"
@@ -325563,7 +325582,7 @@
     "JJ"
   ],
   "till hands": [
-    "?"
+    "avm"
   ],
   "till havs": [
     "RB"
@@ -325627,10 +325646,10 @@
     "RB"
   ],
   "till intet förpliktande": [
-    "?"
+    "avm"
   ],
   "till intet förpliktigande": [
-    "?"
+    "avm"
   ],
   "tillintetgjord": [
     "JJ"
@@ -325743,19 +325762,19 @@
     "NN"
   ],
   "till lags": [
-    "?"
+    "avm"
   ],
   "till lands": [
     "RB"
   ],
   "till last": [
-    "?"
+    "avm"
   ],
   "till livs": [
     "RB"
   ],
   "till låns": [
-    "?"
+    "avm"
   ],
   "tillmakning": [
     "NN"
@@ -325810,11 +325829,12 @@
     "RB"
   ],
   "till och med": [
-    "?",
+    "ppm",
     "RB"
   ],
   "t.o.m.": [
-    "?"
+    "ppa",
+    "aba"
   ],
   "till oigenkännlighet": [
     "RB"
@@ -325986,13 +326006,13 @@
   ],
   "tills": [
     "IN",
-    "?"
+    "sn"
   ],
   "till saken": [
     "RB"
   ],
   "till salu": [
-    "?"
+    "avm"
   ],
   "tillsamman": [
     "RB"
@@ -326019,7 +326039,7 @@
     "NN"
   ],
   "till sig": [
-    "?"
+    "avm"
   ],
   "till sin fördel": [
     "RB"
@@ -326055,10 +326075,10 @@
     "NN"
   ],
   "till skillnad från": [
-    "?"
+    "ppm"
   ],
   "till skillnad ifrån": [
-    "?"
+    "ppm"
   ],
   "tillskjutande": [
     "NN"
@@ -326442,7 +326462,7 @@
     "NN"
   ],
   "till trots": [
-    "?"
+    "ppm"
   ],
   "tilltryckning": [
     "NN"
@@ -326712,7 +326732,7 @@
     "NN"
   ],
   "till åren kommen": [
-    "?"
+    "avm"
   ],
   "tillåta": [
     "VB"
@@ -326850,7 +326870,7 @@
     "RB"
   ],
   "till övers för": [
-    "?"
+    "ppm"
   ],
   "till övervägande del": [
     "RB"
@@ -327706,13 +327726,13 @@
     "UH"
   ],
   "tjena moss": [
-    "?"
+    "inm"
   ],
   "tjänamoss": [
     "UH"
   ],
   "tjäna moss": [
-    "?"
+    "inm"
   ],
   "tjerkess": [
     "NN"
@@ -327742,7 +327762,7 @@
     "NN"
   ],
   "tji": [
-    "?"
+    "PRP"
   ],
   "tjim": [
     "NN"
@@ -329915,7 +329935,7 @@
     "NN"
   ],
   "topplåne": [
-    "?"
+    "sxc"
   ],
   "topplån": [
     "NN"
@@ -329999,10 +330019,10 @@
     "NN"
   ],
   "topp tunnor": [
-    "?"
+    "avm"
   ],
   "topp tunnor rasande": [
-    "?"
+    "avm"
   ],
   "toppända": [
     "NN"
@@ -330396,7 +330416,7 @@
     "NN"
   ],
   "torr bakom öronen": [
-    "?"
+    "avm"
   ],
   "torrbatteri": [
     "NN"
@@ -330469,10 +330489,10 @@
     "NNP"
   ],
   "torr i halsen": [
-    "?"
+    "avm"
   ],
   "torr i munnen": [
-    "?"
+    "avm"
   ],
   "torris": [
     "NN"
@@ -332649,7 +332669,7 @@
     "NN"
   ],
   "tredjeklass": [
-    "?"
+    "mxc"
   ],
   "tredje klass": [
     "NN"
@@ -333117,7 +333137,7 @@
     "NN"
   ],
   "tretton på dussinet": [
-    "?"
+    "pnm"
   ],
   "trettonsnåret": [
     "NN"
@@ -333169,7 +333189,7 @@
     "JJ"
   ],
   "trevlig helg": [
-    "?"
+    "inm"
   ],
   "trevlighet": [
     "NN"
@@ -333597,7 +333617,7 @@
     "NN"
   ],
   "tripp trapp trull": [
-    "?"
+    "inm"
   ],
   "trips": [
     "NN"
@@ -335221,7 +335241,7 @@
     "NN"
   ],
   "trångt om saligheten": [
-    "?"
+    "avm"
   ],
   "trånsjuk": [
     "JJ"
@@ -335587,7 +335607,7 @@
     "NN"
   ],
   "trägen vinner": [
-    "?"
+    "inm"
   ],
   "trägolv": [
     "NN"
@@ -337416,7 +337436,7 @@
     "NNP"
   ],
   "tusen sinom tusen": [
-    "?"
+    "nlm"
   ],
   "tusensköna": [
     "NN"
@@ -338815,7 +338835,7 @@
     "NN"
   ],
   "tvärs över": [
-    "?"
+    "ppm"
   ],
   "tvärsöver": [
     "RB",
@@ -338975,7 +338995,7 @@
     "NN"
   ],
   "ty": [
-    "?"
+    "kn"
   ],
   "tya": [
     "VB"
@@ -339500,7 +339520,7 @@
     "RB"
   ],
   "ty åtföljande": [
-    "?"
+    "avm"
   ],
   "tå": [
     "NN"
@@ -340203,7 +340223,7 @@
     "NN"
   ],
   "tärningen är kastad": [
-    "?"
+    "inm"
   ],
   "tärningsbägare": [
     "NN"
@@ -341448,7 +341468,7 @@
     "RB"
   ],
   "under all kritik": [
-    "?"
+    "avm"
   ],
   "underanvända": [
     "VB"
@@ -341463,7 +341483,7 @@
     "NN"
   ],
   "under arbete": [
-    "?"
+    "avm"
   ],
   "underarm": [
     "NN"
@@ -341559,7 +341579,7 @@
     "NN"
   ],
   "under bevakning": [
-    "?"
+    "avm"
   ],
   "underbinda": [
     "VB"
@@ -341619,7 +341639,7 @@
     "RB"
   ],
   "under det att": [
-    "?"
+    "snm"
   ],
   "underdimensionera": [
     "VB"
@@ -341751,7 +341771,7 @@
     "JJ"
   ],
   "under förutsättning att": [
-    "?"
+    "snm"
   ],
   "under förväntan": [
     "RB"
@@ -341838,7 +341858,7 @@
     "RB"
   ],
   "underhands": [
-    "?"
+    "sxc"
   ],
   "underhandla": [
     "VB"
@@ -341865,7 +341885,7 @@
     "NN"
   ],
   "under hot": [
-    "?"
+    "avm"
   ],
   "underhud": [
     "NN"
@@ -341971,7 +341991,7 @@
     "NN"
   ],
   "under isen": [
-    "?"
+    "avm"
   ],
   "under jorden": [
     "RB"
@@ -342124,7 +342144,7 @@
     "NN"
   ],
   "under loppet av": [
-    "?"
+    "ppm"
   ],
   "underlydande": [
     "JJ"
@@ -342668,7 +342688,7 @@
     "NN"
   ],
   "under toffeln": [
-    "?"
+    "avm"
   ],
   "underton": [
     "NN"
@@ -342689,10 +342709,10 @@
     "NN"
   ],
   "under uppsegling": [
-    "?"
+    "avm"
   ],
   "under uppsyn": [
-    "?"
+    "avm"
   ],
   "underutvecklad": [
     "JJ"
@@ -342704,7 +342724,7 @@
     "RB"
   ],
   "under vapen": [
-    "?"
+    "avm"
   ],
   "undervattensarkeologi": [
     "NN"
@@ -342851,7 +342871,7 @@
     "RB"
   ],
   "under övervakning": [
-    "?"
+    "avm"
   ],
   "undfalla": [
     "VB"
@@ -343489,7 +343509,7 @@
     "NN"
   ],
   "universal": [
-    "?"
+    "sxc"
   ],
   "universell": [
     "JJ"
@@ -344046,10 +344066,10 @@
     "NN"
   ],
   "uppe i smöret": [
-    "?"
+    "avm"
   ],
   "uppe i varv": [
-    "?"
+    "avm"
   ],
   "oppeldad": [
     "JJ"
@@ -344058,10 +344078,10 @@
     "JJ"
   ],
   "uppe med solen": [
-    "?"
+    "avm"
   ],
   "uppe med tuppen": [
-    "?"
+    "avm"
   ],
   "oppemot": [
     "RB"
@@ -344357,7 +344377,7 @@
     "IN"
   ],
   "uppförs": [
-    "?"
+    "sxc"
   ],
   "uppföra": [
     "VB"
@@ -344681,7 +344701,7 @@
     "NN"
   ],
   "upp i dagen": [
-    "?"
+    "avm"
   ],
   "oppifrån": [
     "RB",
@@ -346233,7 +346253,7 @@
     "NN"
   ],
   "uppsägningslåne": [
-    "?"
+    "sxc"
   ],
   "uppsägningslån": [
     "NN"
@@ -346357,7 +346377,7 @@
     "RB"
   ],
   "upp till bevis": [
-    "?"
+    "inm"
   ],
   "upptining": [
     "NN"
@@ -346645,13 +346665,13 @@
     "NN"
   ],
   "opp på": [
-    "?"
+    "ppm"
   ],
   "oppå": [
     "IN"
   ],
   "upp på": [
-    "?"
+    "ppm"
   ],
   "uppå": [
     "IN"
@@ -346822,7 +346842,7 @@
     "RB"
   ],
   "ur balans": [
-    "?"
+    "avm"
   ],
   "urban": [
     "JJ"
@@ -346933,7 +346953,7 @@
     "NN"
   ],
   "ur fattningen": [
-    "?"
+    "avm"
   ],
   "urfinska": [
     "NN"
@@ -346957,13 +346977,13 @@
     "NN"
   ],
   "ur form": [
-    "?"
+    "avm"
   ],
   "urformation": [
     "NN"
   ],
   "ur funktion": [
-    "?"
+    "avm"
   ],
   "urfågel": [
     "NN"
@@ -347008,7 +347028,7 @@
     "JJ"
   ],
   "ur gängorna": [
-    "?"
+    "avm"
   ],
   "ur hand i hand": [
     "RB"
@@ -347143,7 +347163,7 @@
     "NN"
   ],
   "ur jämvikt": [
-    "?"
+    "avm"
   ],
   "urkalka": [
     "VB"
@@ -347203,7 +347223,7 @@
     "NN"
   ],
   "ur lag": [
-    "?"
+    "avm"
   ],
   "laka ur": [
     "VB"
@@ -347341,7 +347361,7 @@
     "NN"
   ],
   "ur räkningen": [
-    "?"
+    "avm"
   ],
   "ursaka": [
     "VB"
@@ -347434,7 +347454,7 @@
     "NN"
   ],
   "ur slag": [
-    "?"
+    "avm"
   ],
   "urslem": [
     "NN"
@@ -347455,7 +347475,7 @@
     "NN"
   ],
   "ur spel": [
-    "?"
+    "avm"
   ],
   "ursprung": [
     "NN"
@@ -347539,7 +347559,7 @@
     "NN"
   ],
   "ur stånd": [
-    "?"
+    "avm"
   ],
   "ursupen": [
     "JJ"
@@ -347678,7 +347698,7 @@
     "RB"
   ],
   "ur världen": [
-    "?"
+    "avm"
   ],
   "urväxt": [
     "JJ"
@@ -347825,7 +347845,7 @@
     "NNP"
   ],
   "utan": [
-    "?",
+    "kn",
     "IN"
   ],
   "utan att låta sig bekomma": [
@@ -347847,10 +347867,10 @@
     "VB"
   ],
   "utan dess like": [
-    "?"
+    "avm"
   ],
   "utan like": [
-    "?"
+    "avm"
   ],
   "utandning": [
     "NN"
@@ -347883,7 +347903,7 @@
     "RB"
   ],
   "utan hänsyn till": [
-    "?"
+    "ppm"
   ],
   "utan knussel": [
     "RB"
@@ -347904,19 +347924,19 @@
     "RB"
   ],
   "utan det minsta spår av": [
-    "?"
+    "ppm"
   ],
   "utan minsta spår av": [
-    "?"
+    "ppm"
   ],
   "utan dess motstycke": [
-    "?"
+    "avm"
   ],
   "utan motstycke": [
-    "?"
+    "avm"
   ],
   "utan motsvarighet": [
-    "?"
+    "avm"
   ],
   "utan namns nämnande": [
     "RB"
@@ -347983,7 +348003,7 @@
     "RB"
   ],
   "utan rim och reson": [
-    "?"
+    "avm"
   ],
   "utan risk": [
     "RB"
@@ -348004,13 +348024,13 @@
     "RB"
   ],
   "utan ett spår av": [
-    "?"
+    "ppm"
   ],
   "utan spår av": [
-    "?"
+    "ppm"
   ],
   "utan tak över huvudet": [
-    "?"
+    "avm"
   ],
   "utantill": [
     "RB"
@@ -348031,7 +348051,7 @@
     "RB"
   ],
   "utan undantag": [
-    "?"
+    "avm"
   ],
   "utan uppehåll": [
     "RB"
@@ -348573,7 +348593,7 @@
     "NN"
   ],
   "ute efter": [
-    "?"
+    "avm"
   ],
   "uteffekt": [
     "NN"
@@ -348597,16 +348617,16 @@
     "NN"
   ],
   "ute i kylan": [
-    "?"
+    "avm"
   ],
   "i ogjort väder": [
-    "?"
+    "avm"
   ],
   "ute i ogjort väder": [
-    "?"
+    "avm"
   ],
   "ute i ogjort ärende": [
-    "?"
+    "avm"
   ],
   "utekväll": [
     "NN"
@@ -348943,7 +348963,7 @@
     "IN"
   ],
   "utförs": [
-    "?"
+    "sxc"
   ],
   "utföra": [
     "VB"
@@ -349926,13 +349946,13 @@
     "JJ"
   ],
   "ut och invänd": [
-    "?"
+    "avm"
   ],
   "ut- och invänd": [
-    "?"
+    "avm"
   ],
   "ut o invänd": [
-    "?"
+    "avm"
   ],
   "utåinvänd": [
     "JJ"
@@ -350046,7 +350066,7 @@
     "JJ"
   ],
   "utom sig": [
-    "?"
+    "avm"
   ],
   "utomskärs": [
     "RB"
@@ -351394,7 +351414,7 @@
     "IN"
   ],
   "ut ur": [
-    "?"
+    "ppm"
   ],
   "ur-ur-kroppen-upplevelse": [
     "NN"
@@ -351774,7 +351794,7 @@
   "vad": [
     "RB",
     "NN",
-    "?",
+    "PRP",
     "UH"
   ],
   "va": [
@@ -351937,7 +351957,7 @@
     "NN"
   ],
   "vad beträffar": [
-    "?"
+    "ppm"
   ],
   "vadd": [
     "NN"
@@ -351973,10 +351993,10 @@
     "NN"
   ],
   "vad för": [
-    "?"
+    "pnm"
   ],
   "vadhelst": [
-    "?"
+    "PRP"
   ],
   "vadhållare": [
     "NN"
@@ -352009,7 +352029,7 @@
     "NN"
   ],
   "vad som helst": [
-    "?"
+    "pnm"
   ],
   "Vadstena": [
     "NNP"
@@ -352036,7 +352056,7 @@
     "RB"
   ],
   "vad än": [
-    "?"
+    "pnm"
   ],
   "vadfalls": [
     "RB"
@@ -352520,10 +352540,10 @@
     "NN"
   ],
   "waldorf": [
-    "?"
+    "sxc"
   ],
   "Waldorf": [
-    "?"
+    "sxc"
   ],
   "valdäck": [
     "NN"
@@ -353941,7 +353961,7 @@
     "NN"
   ],
   "var": [
-    "?",
+    "PRP",
     "JJ",
     "NN",
     "RB"
@@ -353978,16 +353998,16 @@
     "NN"
   ],
   "varandra": [
-    "?"
+    "PRP"
   ],
   "varann": [
-    "?"
+    "PRP"
   ],
   "Varangerfjorden": [
     "NNP"
   ],
   "varannan": [
-    "?"
+    "PRP"
   ],
   "vara på": [
     "VB"
@@ -354131,7 +354151,7 @@
     "NN"
   ],
   "vardera": [
-    "?"
+    "PRP"
   ],
   "varefter": [
     "RB"
@@ -354140,14 +354160,14 @@
     "NN"
   ],
   "varemot": [
-    "?",
+    "sn",
     "RB"
   ],
   "varenda": [
-    "?"
+    "PRP"
   ],
   "varendaste": [
-    "?"
+    "PRP"
   ],
   "vare sig": [
     "RB"
@@ -354343,7 +354363,7 @@
     "NN"
   ],
   "varje": [
-    "?"
+    "PRP"
   ],
   "varjehanda": [
     "JJ"
@@ -354358,7 +354378,7 @@
     "NN"
   ],
   "varken hackat eller malet": [
-    "?"
+    "avm"
   ],
   "varken mer eller mindre": [
     "RB"
@@ -354529,13 +354549,13 @@
     "NN"
   ],
   "var och en": [
-    "?"
+    "pnm"
   ],
   "varom": [
     "RB"
   ],
   "varom icke": [
-    "?"
+    "snm"
   ],
   "varp": [
     "NN"
@@ -354566,7 +354586,7 @@
     "RB"
   ],
   "vars": [
-    "?"
+    "PRP"
   ],
   "varsam": [
     "JJ"
@@ -354593,10 +354613,10 @@
     "NN"
   ],
   "varsin": [
-    "?"
+    "PRP"
   ],
   "var sin": [
-    "?"
+    "pnm"
   ],
   "varsko": [
     "VB"
@@ -354635,13 +354655,13 @@
     "UH"
   ],
   "var så goda": [
-    "?"
+    "inm"
   ],
   "varsågod": [
     "UH"
   ],
   "var så god": [
-    "?"
+    "inm"
   ],
   "vart": [
     "RB"
@@ -354734,7 +354754,7 @@
     "NN"
   ],
   "varulåne": [
-    "?"
+    "sxc"
   ],
   "varulån": [
     "NN"
@@ -356337,16 +356357,16 @@
     "NN"
   ],
   "vem": [
-    "?"
+    "PRP"
   ],
   "vem där": [
-    "?"
+    "inm"
   ],
   "Vem där": [
-    "?"
+    "inm"
   ],
   "vem helst": [
-    "?"
+    "pnm"
   ],
   "Vemmenhög": [
     "NNP"
@@ -356364,13 +356384,13 @@
     "JJ"
   ],
   "vem som helst": [
-    "?"
+    "pnm"
   ],
   "vem vet": [
-    "?"
+    "inm"
   ],
   "vem än": [
-    "?"
+    "pnm"
   ],
   "ven": [
     "NN"
@@ -357216,7 +357236,7 @@
     "NN"
   ],
   "vetare": [
-    "?"
+    "nnh"
   ],
   "vetenskapsman": [
     "NN"
@@ -357410,7 +357430,7 @@
   "vi": [
     "NN",
     "RB",
-    "?"
+    "PRP"
   ],
   "via": [
     "IN"
@@ -357817,7 +357837,7 @@
     "NN"
   ],
   "vid liv": [
-    "?"
+    "avm"
   ],
   "vidlyftig": [
     "JJ"
@@ -357844,10 +357864,10 @@
     "NN"
   ],
   "vid medvetande": [
-    "?"
+    "avm"
   ],
   "vid namn": [
-    "?"
+    "avm"
   ],
   "vid närmare eftertanke": [
     "RB"
@@ -357859,7 +357879,7 @@
     "RB"
   ],
   "vid profetens skägg": [
-    "?"
+    "inm"
   ],
   "vidrig": [
     "JJ"
@@ -357877,16 +357897,16 @@
     "NN"
   ],
   "på sidan av": [
-    "?"
+    "ppm"
   ],
   "på sidan om": [
-    "?"
+    "ppm"
   ],
   "vid sidan av": [
-    "?"
+    "ppm"
   ],
   "vid sidan om": [
-    "?"
+    "ppm"
   ],
   "vid sidan av saken": [
     "RB"
@@ -357895,7 +357915,7 @@
     "RB"
   ],
   "vid sina sinnens fulla bruk": [
-    "?"
+    "avm"
   ],
   "vidskepelse": [
     "NN"
@@ -357919,7 +357939,7 @@
     "JJ"
   ],
   "vid sunda vätskor": [
-    "?"
+    "avm"
   ],
   "vidsyn": [
     "NN"
@@ -357946,7 +357966,7 @@
     "NN"
   ],
   "vid tiden för": [
-    "?"
+    "ppm"
   ],
   "vid tillfälle": [
     "RB"
@@ -358205,7 +358225,7 @@
     "NN"
   ],
   "vik hädan": [
-    "?"
+    "inm"
   ],
   "wiki": [
     "NN"
@@ -358645,10 +358665,10 @@
     "NN"
   ],
   "vilken": [
-    "?"
+    "PRP"
   ],
   "vilkendera": [
-    "?"
+    "PRP"
   ],
   "vill": [
     "RB"
@@ -358919,7 +358939,7 @@
     "NN"
   ],
   "vilt främmande": [
-    "?"
+    "avm"
   ],
   "vilthandlare": [
     "NN"
@@ -360340,7 +360360,7 @@
     "NN"
   ],
   "virtual": [
-    "?"
+    "sxc"
   ],
   "virtuell": [
     "JJ"
@@ -360478,10 +360498,10 @@
     "VB"
   ],
   "vis av erfarenhet": [
-    "?"
+    "avm"
   ],
   "vis av erfarenheten": [
-    "?"
+    "avm"
   ],
   "visavi": [
     "IN"
@@ -362290,7 +362310,7 @@
     "NN"
   ],
   "vyssan lull": [
-    "?",
+    "inm",
     "NNP"
   ],
   "vyssanlull": [
@@ -362703,9 +362723,13 @@
     "NN"
   ],
   "vår": [
+    "PP$",
+    "PRP",
     "NN"
   ],
   "våra": [
+    "PP$",
+    "PRP",
     "VB"
   ],
   "våradonis": [
@@ -363789,7 +363813,7 @@
     "JJ"
   ],
   "väl bekomme": [
-    "?"
+    "inm"
   ],
   "välbelägen": [
     "JJ"
@@ -364279,7 +364303,7 @@
     "UH"
   ],
   "väl mött": [
-    "?"
+    "inm"
   ],
   "välnärd": [
     "JJ"
@@ -364502,7 +364526,7 @@
     "VB"
   ],
   "väl tilltagen": [
-    "?"
+    "avm"
   ],
   "vältra": [
     "VB"
@@ -364553,7 +364577,7 @@
     "JJ"
   ],
   "väl unt": [
-    "?"
+    "avm"
   ],
   "väluppfostrad": [
     "JJ"
@@ -365306,7 +365330,7 @@
     "NN"
   ],
   "värd ett ruttet lingon": [
-    "?"
+    "avm"
   ],
   "värdeökning": [
     "NN"
@@ -367203,16 +367227,16 @@
     "NN"
   ],
   "aktig": [
-    "?"
+    "avh"
   ],
   "Xander": [
     "NNP"
   ],
   "x antal": [
-    "?"
+    "pnm"
   ],
   "X antal": [
-    "?"
+    "pnm"
   ],
   "xantippa": [
     "NN"
@@ -367224,25 +367248,25 @@
     "NN"
   ],
   "armad": [
-    "?"
+    "avh"
   ],
   "artad": [
-    "?"
+    "avh"
   ],
   "x-axel": [
     "NN"
   ],
   "bent": [
-    "?"
+    "avh"
   ],
   "buren": [
-    "?"
+    "avh"
   ],
   "cylindrig": [
-    "?"
+    "avh"
   ],
   "dimensionell": [
-    "?"
+    "avh"
   ],
   "xenofobi": [
     "NN"
@@ -367263,7 +367287,7 @@
     "NNP"
   ],
   "faldig": [
-    "?"
+    "avh"
   ],
   "x-formad": [
     "JJ"
@@ -367290,13 +367314,13 @@
     "JJ"
   ],
   "haltig": [
-    "?"
+    "avh"
   ],
   "hörnig": [
-    "?"
+    "avh"
   ],
   "hörning": [
-    "?"
+    "nnh"
   ],
   "xi": [
     "NN"
@@ -367311,28 +367335,28 @@
     "NN"
   ],
   "ledes": [
-    "?"
+    "abh"
   ],
   "mässig": [
-    "?"
+    "avh"
   ],
   "procentig": [
-    "?"
+    "avh"
   ],
   "sidig": [
-    "?"
+    "avh"
   ],
   "siding": [
-    "?"
+    "nnh"
   ],
   "snåret": [
-    "?"
+    "nnh"
   ],
   "stavig": [
-    "?"
+    "avh"
   ],
   "tonnare": [
-    "?"
+    "nnh"
   ],
   "xylofon": [
     "NN"
@@ -367347,18 +367371,18 @@
     "JJ"
   ],
   "årig": [
-    "?"
+    "avh"
   ],
   "åring": [
     "NN",
-    "?"
+    "nnh"
   ],
   "årsåldern": [
-    "?"
+    "nnh"
   ],
   "öring": [
     "NN",
-    "?"
+    "nnh"
   ],
   "y": [
     "NN"
@@ -367712,7 +367736,7 @@
     "NN"
   ],
   "yr i mössan": [
-    "?"
+    "avm"
   ],
   "yrka": [
     "VB"
@@ -369298,7 +369322,7 @@
     "UH"
   ],
   "å nej": [
-    "?"
+    "inm"
   ],
   "ånga": [
     "VB",
@@ -371065,7 +371089,7 @@
     "NN"
   ],
   "åtskillig": [
-    "?"
+    "PRP"
   ],
   "åtskillnad": [
     "NN"
@@ -371605,7 +371629,7 @@
     "JJ"
   ],
   "äkt": [
-    "?"
+    "sxc"
   ],
   "äkta hälft": [
     "NN"
@@ -371620,7 +371644,7 @@
     "NN"
   ],
   "äktastånds": [
-    "?"
+    "mxc"
   ],
   "äkta säng": [
     "NN"
@@ -372064,7 +372088,7 @@
     "JJ"
   ],
   "än": [
-    "?",
+    "sn",
     "RB"
   ],
   "ända": [
@@ -372100,7 +372124,7 @@
     "VB"
   ],
   "ända till": [
-    "?"
+    "ppm"
   ],
   "ände": [
     "NN"
@@ -372124,7 +372148,7 @@
     "NN"
   ],
   "ändock": [
-    "?",
+    "sn",
     "RB"
   ],
   "ändpunkt": [
@@ -372356,7 +372380,7 @@
     "RB"
   ],
   "än sen då": [
-    "?"
+    "inm"
   ],
   "än si och än så": [
     "RB"
@@ -372365,7 +372389,7 @@
     "RB"
   ],
   "änskönt": [
-    "?"
+    "sn"
   ],
   "ännusålänge": [
     "RB"
@@ -372473,7 +372497,7 @@
     "NN"
   ],
   "äppel": [
-    "?"
+    "sxc"
   ],
   "äpple": [
     "NN"
@@ -372485,13 +372509,13 @@
     "JJ"
   ],
   "äpplet faller inte långt från trädet": [
-    "?"
+    "inm"
   ],
   "äpplet faller inte långt ifrån trädet": [
-    "?"
+    "inm"
   ],
   "äpplet faller inte långtifrån trädet": [
-    "?"
+    "inm"
   ],
   "ära": [
     "VB",
@@ -372504,7 +372528,7 @@
     "NN"
   ],
   "äran stridig": [
-    "?"
+    "avm"
   ],
   "ärbar": [
     "JJ"
@@ -372996,13 +373020,13 @@
     "RB"
   ],
   "ävenom": [
-    "?"
+    "sn"
   ],
   "även om": [
-    "?"
+    "snm"
   ],
   "ävensom": [
-    "?"
+    "sn"
   ],
   "ävenså": [
     "RB"
@@ -373222,7 +373246,7 @@
     "NN"
   ],
   "öga för öga och tand för tand": [
-    "?"
+    "inm"
   ],
   "öga mot öga": [
     "RB"
@@ -373699,7 +373723,7 @@
     "NN"
   ],
   "ömse": [
-    "?"
+    "PRP"
   ],
   "ömsesidig": [
     "JJ"
@@ -373789,7 +373813,7 @@
     "JJ"
   ],
   "öppet": [
-    "?"
+    "sxc"
   ],
   "öppen fråga": [
     "NN"
@@ -373832,7 +373856,7 @@
   ],
   "öppna": [
     "VB",
-    "?"
+    "sxc"
   ],
   "öppna dörren": [
     "VB"
@@ -373895,7 +373919,7 @@
     "NN"
   ],
   "öres": [
-    "?"
+    "sxc"
   ],
   "Örebro": [
     "NNP"
@@ -374279,7 +374303,7 @@
     "NNP"
   ],
   "östersjö": [
-    "?"
+    "sxc"
   ],
   "Östersjösamarbete": [
     "NN"
@@ -376047,7 +376071,7 @@
     "JJ"
   ],
   "över styr": [
-    "?"
+    "avm"
   ],
   "överstyrd": [
     "JJ"
@@ -376506,12 +376530,122 @@
     "NNP"
   ],
   "övrig": [
-    "?"
+    "PRP"
   ],
   "övärld": [
     "NN"
   ],
   "Öyvind": [
     "NNP"
+  ],
+  "det": [
+    "PRP"
+  ],
+  "mig": [
+    "PRP"
+  ],
+  "mej": [
+    "PRP"
+  ],
+  "dig": [
+    "PRP"
+  ],
+  "dej": [
+    "PRP"
+  ],
+  "honom": [
+    "PRP"
+  ],
+  "henne": [
+    "PRP"
+  ],
+  "henom": [
+    "PRP"
+  ],
+  "oss": [
+    "PRP"
+  ],
+  "er": [
+    "PP$",
+    "PRP"
+  ],
+  "eder": [
+    "PRP"
+  ],
+  "dem": [
+    "PRP"
+  ],
+  "din": [
+    "PP$",
+    "PRP"
+  ],
+  "sin": [
+    "PP$",
+    "PRP"
+  ],
+  "våran": [
+    "PRP"
+  ],
+  "eran": [
+    "PRP"
+  ],
+  "ditt": [
+    "PP$",
+    "PRP"
+  ],
+  "hans": [
+    "WDT",
+    "PRP"
+  ],
+  "hennes": [
+    "WDT",
+    "PRP"
+  ],
+  "hens": [
+    "PRP"
+  ],
+  "dess": [
+    "WDT",
+    "PRP"
+  ],
+  "sitt": [
+    "PP$",
+    "PRP"
+  ],
+  "vårt": [
+    "PP$",
+    "PRP"
+  ],
+  "vårat": [
+    "PRP"
+  ],
+  "ert": [
+    "PP$",
+    "PRP"
+  ],
+  "erat": [
+    "PRP"
+  ],
+  "edert": [
+    "PRP"
+  ],
+  "deras": [
+    "PRP"
+  ],
+  "dina": [
+    "PP$",
+    "PRP"
+  ],
+  "edra": [
+    "PRP"
+  ],
+  "detta": [
+    "WDT"
+  ],
+  "denne": [
+    "WDT"
+  ],
+  "dessa": [
+    "WDT"
   ]
 }

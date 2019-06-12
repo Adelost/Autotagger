@@ -11,9 +11,36 @@ var transformationRules = new TransformationRules();
 
 module.exports = POSTagger;
 
-function POSTagger() {
-  this.lexicon = require('../lexicons/swedish');
+function POSTagger(lang) {
+  this.lexicon = require(`../lexicons/${lang}`);
+  this.grammar = grammars[lang];
 }
+
+const grammars = {
+  swe: (w, lex) => {
+    // let match;
+    if (w.match(/(ing|en|ens|et|arna|ets|an|ant|anna|ent)$/)) return ['NN'];
+    if (w.match(/(er|ar)$/)) return ['VB'];
+    if (w.match(/(igt)$/)) return ['AB'];
+    if (w.match(/(igt)$/)) return ['AB'];
+    if (w === 'Månen') {
+      console.log(w);
+    }
+    const match = w.match(/(.+)(a|n)$/);
+    if (match) {
+      const stem = match[1];
+      const ss = lex[stem.toLowerCase()];
+      if (ss) return [ss];
+    }
+    return undefined;
+  },
+  eng: (w) => {
+    if (w.match(/(ing)$/)) {
+      return ['VB'];
+    }
+    return undefined;
+  }
+};
 
 POSTagger.prototype.wordInLexicon = function (word) {
   var ss = this.lexicon[word];
@@ -50,16 +77,25 @@ POSTagger.prototype.tag = function (words) {
   // Initialise taggedSentence with words and initial categories
   for (var i = 0, size = words.length; i < size; i++) {
     const word = words[i];
-    if (word === `Deneb`) {
+    if (word === `Månen`) {
       console.log('word', word);
     }
     taggedSentence[i] = new Array(2);
     taggedSentence[i][0] = words[i];
     // lexicon maps a word to an array of possible categories
     var ss = this.lexicon[words[i]];
+    if (ss && startsWithUppercase(words[i])) {
+      const lowerSs = this.lexicon[words[i].toLowerCase()];
+      if (lowerSs) {
+        ss = lowerSs;
+      }
+    }
     // 1/22/2002 mod (from Lisp code): if not in hash, try lower case:
     if (!ss) { ss = this.lexicon[words[i].toLowerCase()]; }
     if (!ss && (words[i].length === 1)) { taggedSentence[i][1] = words[i] + '^'; }
+    if (!ss) {
+      ss = this.grammar(word, this.lexicon);
+    }
     // We need to catch scenarios where we pass things on the prototype
     // that aren't in the lexicon: "constructor" breaks this otherwise
     removeNnpFromLs(ss);

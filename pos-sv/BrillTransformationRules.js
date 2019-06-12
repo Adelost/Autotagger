@@ -27,7 +27,6 @@
 function BrillTransformationRules() {
   // this.rules = [rule1, rule2, rule3, rule4, rule5, rule6, rule7, rule8];
   this.rules = [];
-
 }
 
 BrillTransformationRules.prototype.getRule = function(index) {
