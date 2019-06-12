@@ -1,0 +1,6 @@
+/node_modules
+/.idea
+/.vscode
+/.nyc_output
+/out
+package-lock.json
