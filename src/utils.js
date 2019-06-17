@@ -1,5 +1,5 @@
 const fs = require('fs');
-const pos = require('../pos-sv');
+const pos = require('./pos');
 
 exports.loadStaggerFile = function (path) {
   const input = fs.readFileSync(path, 'utf8');
@@ -28,16 +28,8 @@ exports.loadStaggerFile = function (path) {
 
 exports.tagFile = function (path, lang) {
   let input = fs.readFileSync(path, 'utf8');
-
-  input = input.replace(/[’‘’]/g, `'`);
-  input = input.replace(/[“”]/g, `"`);
-  input = input.replace(/[—]/g, `-`);
-  input = input.replace(/[…»]/g, `. `);
-  input = input.replace(/(\n|\s\s|\t)+/g, `. `);
-  input = grammarCleanup(input);
-
-  const words = new pos.Lexer().lex(input);
   const tagger = new pos.Tagger(lang);
+  const words = tagger.lex(input);
   return tagger.tag(words);
 };
 
@@ -49,10 +41,10 @@ exports.findKeywords = function (words) {
   words = mergeNNP(words);
   words = suffixCleanup(words);
   words = words.filter(_ => isNnp(_[1]));
-  // words = countKeywords(words);
-  // promoteCompoundWords(words);
-  // promoteHeadlineWords(words);
-  // words = words.sort((a, b) => b[0] - a[0]);
+  words = countKeywords(words);
+  promoteCompoundWords(words);
+  promoteHeadlineWords(words);
+  words = words.sort((a, b) => 1 * (b[0] - a[0]));
   return words;
 };
 
@@ -121,10 +113,10 @@ function fixOfTitles(words) {
 }
 
 function fixCompoundNouns(words) {
-  words.forEach((w0, i) => {
-    const w1 = words[i + 1];
-    if (w1 && w0[1] === 'NNP' && isTitle(w1[0])) {
-      w1[1] = 'NNP';
+  words.forEach((word, i) => {
+    const next = words[i + 1];
+    if (next && word[1] === 'NNP' && isTitle(next[0])) {
+      next[1] = 'NNP';
     }
   });
 }
@@ -157,11 +149,15 @@ function fixNames(words) {
 }
 
 function startsWithUppercase(word) {
+  if (!isWord(word)) return false;
   const first = word[0];
-  if (!first.match(/[A-Za-zÀ-ÖØ-öø-ÿ]/)) {
-    return false;
-  }
   return first === first.toUpperCase();
+}
+
+function startsWithLowercase(word) {
+  if (!isWord(word)) return false;
+  const first = word[0];
+  return first === first.toLowerCase();
 }
 
 
@@ -190,7 +186,6 @@ function removeOverlappingWords(words) {
 }
 
 exports.removeOverlappingWords = removeOverlappingWords;
-
 
 function promoteCompoundWords(words) {
   const counts = {};
@@ -285,9 +280,16 @@ exports.createSweLexicon = function (path) {
     });
   });
   Object.entries(lex).forEach(([key, value]) => {
-    lex[key] = Object.keys(value).reverse();
+    lex[key] = Object.keys(value);
   });
-  fs.writeFileSync(`${__dirname}/../lexicons/swe.json`, JSON.stringify(lex, null, 2), 'utf8');
+  const text = JSON.stringify(lex, null, 0)
+    .replace(/{(.*)}/, '{\n$1\n}')
+    .replace(/(],)/g, '$1\n')
+    .split('\n').map(l => {
+      return l.replace(/(^")/, '  $1')
+        .replace(/(:)(\[)/, '$1 $2');
+    }).join('\n');
+  fs.writeFileSync(`${__dirname}/../lexicons/swe.json`, text, 'utf8');
 };
 
 function additionalSwe() {
@@ -301,3 +303,28 @@ function additionalSwe() {
     WDT: 'hans hennes dess detta denna denne dessa'
   };
 }
+
+exports.createEngLexicon = function (path) {
+  const not = {};
+
+  const rawLex = require(path);
+  const lex = {};
+  Object.keys(rawLex).sort((a, b) => {
+    return a.toLowerCase().localeCompare(b.toLowerCase());
+  }).filter(_ => {
+    if (_.match(/\.$/)) {
+      if (_.match(/\./g).length === 1) {
+        return true;
+      }
+    }
+    return false;
+  }).forEach(_ => lex[_] = rawLex[_]);
+  const text = JSON.stringify(lex, null, 0)
+    .replace(/{(.*)}/, '{\n$1\n}')
+    .replace(/(],)/g, '$1\n')
+    .split('\n').map(l => {
+      return l.replace(/(^")/, '  $1')
+        .replace(/(:)(\[)/, '$1 $2');
+    }).join('\n');
+  fs.writeFileSync(path + '2.json', text, 'utf8');
+};
